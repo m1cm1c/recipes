@@ -1,6 +1,139 @@
 #+AUTHOR: Anonymous
 #+TITLE: Rezepte
 #+LANGUAGE: de
+* Bechamel-Soße
+** Zutaten
+| *Menge* | *Zutat*         |
+|---------+-----------------|
+| 75 g    | Butter          |
+| 1       | Lorbeerblatt    |
+| 75 g    | Mehl            |
+| 750 ml  | Milch           |
+| TODO    | Salz            |
+| TODO    | Pfeffer         |
+| TODO    | Cayennenpfeffer |
+** Zubereitung
+1. Die Butter in einem Topf schmelzen.
+2. Das Lorbeerblatt hinzugeben.
+3. Das Mehl langsam hinzugeben und anschwitzen.
+4. Mit Salz, Pfeffer, und Cayennenpfeffer abschmecken.
+* Currygemüse
+** Zutaten
+| *Menge* | *Zutat*             |
+|---------+---------------------|
+|         |                     |
+** Zubereitung
+1. 
+* Currywurst
+** Zutaten
+| *Menge*       | *Zutat*                 |
+|---------------+-------------------------|
+| 1             | kleine Zwiebel          |
+|               | Olivenöl                |
+| 2 Esslöffel   | Tomatenmark             |
+| TODO          | Wasser                  |
+| 250 ml        | Ketchup                 |
+| 1.5 Esslöffel | Balsamico               |
+| 0.5 Esslöffel | Honig                   |
+| 1 Teeflöffel  | Sojasoße                |
+| 2 Esslöffel   | Currypulver             |
+| 1 Esslöffel   | Cayennenpfeffer         |
+| 1 Esslöffel   | Chillipulver            |
+| 1 Teelöffel   | Pfeffer                 |
+| 8             | Bratwürste (mittelgroß) |
+| 6             | Brötchen                |
+** Zubereitung
+1. Die Zwiebeln würfeln und in einer Pfanne mit etwas Öl glasig braten.
+2. Das Tomatenmark hinzugeben und kurz mitbraten.
+3. Die Mischung mit dem Wasser ablöschen.
+4. Das Ketchup, den Balsamico, und den Honig hinzugeben.
+5. Alles vermischen und ein paar Minuten lang köcheln lassen.
+6. Die Sojasoße, das Currypulver, den Cayennenpfeffer, das Chillipulver, und den Pfeffer hinzugeben.
+7. Die Soße parallel zur Zubereitung der Bratwürste köcheln lassen.
+8. In eine Pfanne Öl geben und die Bratwürste anbraten.
+9. Die Bratwürste auf zwei Teller verteilen, mit der Soße übergießen, und zusammen mit den Brötchen servieren.
+* Erdnusssoße
+** Zutaten
+| *Menge*     | *Zutat*                          |
+|-------------+----------------------------------|
+| 3 Esslöffel | Öl                               |
+| 2           | Zwiebeln                         |
+| 2 Zehen     | Knoblauch                        |
+| 1           | Chillischote                     |
+| 4 Esslöffel | Erdnussbutter (cremig)           |
+| 150 g       | Erdnüsse (geröstet und gesalzen) |
+| 400 ml      | Wasser                           |
+| 6 Esslöffel | Zitronensaft                     |
+| 2 Teelöffel | Sambal Olek                      |
+| 1 Teelöffel | Cayennenpfeffer                  |
+| 4 Esslöffel | Sojasoße                         |
+| 1 Teelöffel | Zucker                           |
+** Zubereitung
+1. Die Zwiebel würfeln und den Knoblauch klein schneiden und in einer Pfanne mit etwas Öl glasig braten. Dabei die Chillischote zerkleinern.
+2. Die zerkleinerte Chillischote hinzugeben und auch kurz anbraten.
+3. Die Erdnussbutter hinzufügen und unter Rühren schmelzen lassen.
+4. Die Erdnüsse grob mixen. Die Hälfte der grob gemixten Erdnüsse hinzugeben.
+5. Den Rest der Erdnüsse fein mixen und hinzugeben.
+6. Das Wasser hinzugeben und die Mischung rühren bis eine geschmeidige Soße entsteht.
+7. Den Zitronensaft, das Sambal Olek, den Cayennenpfeffer, die Sojasoße, und den Zucker hinzugeben.
+8. Alles vermischen und kurz aufkochen lassen.
+* Grießbrei
+** Zutaten
+| *Menge*     | *Zutat*       |
+|-------------+---------------|
+| 1 Liter     | Milch         |
+| 2 Esslöffel | Zucker        |
+| 1 Päckchen  | Vanillezucker |
+| 1 Prise     | Salz          |
+| 100 g       | Weichweizengrieß |
+** Zubereitung
+1. Die Milch, den Zucker, den Vanillezucker, und das Salz in einen Topf geben und zum Kochen bringen.
+2. Den Weichweizengrieß langsam in den Topf geben und dabei kräftig mit einem Schneebesen rühren.
+3. Den Brei nochmals kurz aufkochen lassen.
+* Haferbrei mit Banane
+** Zutaten
+| *Menge*     | *Zutat*      |
+|-------------+--------------|
+| 600 ml      | Milch        |
+| 3 Esslöffel | Zucker       |
+| 3           | Bananen      |
+| 105 g       | Haferflocken |
+** Zubereitung
+1. Die Milch und den Zucker in einen Topf geben und erhitzen.
+2. Die Bananen in dünne Scheiben schneiden.
+3. Sobald die Milch kocht, die Haferflocken hinzugeben und alles verrühren.
+4. Die schnittenen Bananen hinzugeben und alles verrühren.
+5. Köcheln lassen, bis sich die Bananenscheiben größtenteils aufgelöst haben (ca. 10 Minuten).
+* Indonische Eier in Tomatensoße (Telur Balado)
+** Zutaten
+| *Menge*     | *Zutat*          |
+|-------------+------------------|
+|             | Reis             |
+| 12          | Eier             |
+|             | Öl               |
+| 2           | große Zwiebeln   |
+| 3 Zehen     | Knoblauch        |
+| 2           | Chillischoten    |
+| 700 ml      | Tomatensoße      |
+| 1 Dose      | gehackte Tomaten |
+| 1 Teelöffel | Salz             |
+| 1 Teelöffel | Pfeffer          |
+| 1 Teelöffel | Zucker           |
+| 1 Teelöffel | Paprikapulver    |
+| 1 Teelöffel | Oregano          |
+** Zubereitung
+1. Den Reis mit etwas Salz im Wasser kochen.
+2. Eier fest kochen (10 Minuten Kochzeit).
+3. Die gekochten Eier mit kaltem Wasser abschrecken und anschließend schälen.
+4. Die Eier in reichlich Öl braten.
+5. Die Eier aus der Pfanne nehmen.
+6. Die Zwiebel würfeln und den Knoblauch klein schneiden und in einer Pfanne mit etwas Öl glasig braten. Dabei die Chillischoten zerkleinern.
+7. Die zerkleinerten Chillischoten hinzugeben und auch kurz anbraten.
+8. Die Tomatensoße und die gehackten Tomaten hinzugeben und 2 bis 3 Minuten köcheln lassen.
+9. Die vorbereiteten Eier hinzugeben.
+10. Salz, Pfeffer, Zucker, Paprikapulver, und Oregano hinzugeben.
+11. Alles 10 Minuten lang köcheln lassen. Dabei ab und zu langsam umruhren.
+12. Die Eier in Tomatensoße zusammen mit Reis servieren.
 * Käsespätzle
 ** Zutaten
 | *Menge*  | *Zutat*                   |
@@ -49,36 +182,6 @@
 8. Den Käse (etwas zerkleinert) hinzugeben.
 9. Leicht rühren, bis der Käse geschmolzen ist.
 10. Mit Kräuterquark oder Tomatensuppe servieren.
-* Indonische Eier in Tomatensoße (Telur Balado)
-** Zutaten
-| *Menge*     | *Zutat*          |
-|-------------+------------------|
-|             | Reis             |
-| 12          | Eier             |
-|             | Öl               |
-| 2           | große Zwiebeln   |
-| 3 Zehen     | Knoblauch        |
-| 2           | Chillischoten    |
-| 700 ml      | Tomatensoße      |
-| 1 Dose      | gehackte Tomaten |
-| 1 Teelöffer | Salz             |
-| 1 Teelöffel | Pfeffer          |
-| 1 Teelöffel | Zucker           |
-| 1 Teelöffel | Paprikapulver    |
-| 1 Teelöffel | Oregano          |
-** Zubereitung
-1. Den Reis mit etwas Salz im Wasser kochen.
-2. Eier fest kochen (10 Minuten Kochzeit).
-3. Die gekochten Eier mit kaltem Wasser abschrecken und anschließend schälen.
-4. Die Eier in reichlich Öl braten.
-5. Die Eier aus der Pfanne nehmen.
-6. Die Zwiebel würfeln und den Knoblauch klein schneiden und in einer Pfanne mit etwas Öl glasig braten. Dabei die Chillischoten zerkleinern.
-7. Die zerkleinerten Chillischoten hinzugeben und auch kurz anbraten.
-8. Die Tomatensoße und die gehackten Tomaten hinzugeben und 2 bis 3 Minuten köcheln lassen.
-9. Die vorbereiteten Eier hinzugeben.
-10. Salz, Pfeffer, Zucker, Paprikapulver, und Oregano hinzugeben.
-11. Alles 10 Minuten lang köcheln lassen. Dabei ab und zu langsam umruhren.
-12. Die Eier in Tomatensoße zusammen mit Reis servieren.
 * Nudelsalt
 ** Zutaten
 | *Menge*    | *Zutat*             |
@@ -100,31 +203,55 @@
 5. Die Karotten und Erbsen (abgetropft, aber die Flüssigkeit auffangen) und den Mais (abgetropft) hinzugeben.
 6. Alles gut durchmischen. Dabei etwas von der aufgefangenen Flüssigkeit der Karotten und Erbsen hinzugeben, so dass die Soße leicht flüssig ist.
 7. Die Soße einziehen lassen (mindestens 20 Minuten).
-* Erdnusssoße
+* Pizzasoße
 ** Zutaten
-| *Menge*     | *Zutat*                          |
-|-------------+----------------------------------|
-| 3 Esslöffel | Öl                               |
-| 2           | Zwiebeln                         |
-| 2 Zehen     | Knoblauch                        |
-| 1           | Chillischote                     |
-| 4 Esslöffel | Erdnussbutter (cremig)           |
-| 150 g       | Erdnüsse (geröstet und gesalzen) |
-| 400 ml      | Wasser                           |
-| 6 Esslöffel | Zitronensaft                     |
-| 2 Teelöffel | Sambal Olek                      |
-| 1 Teelöffel | Cayennenpfeffer                  |
-| 4 Esslöffel | Sojasoße                         |
-| 1 Teelöffel | Zucker                           |
+| *Menge*     | *Zutat*         |
+|-------------+-----------------|
+| 0.5         | kleine Zwiebeln |
+| 1 Zehe      | Knoblauch       |
+| 500 ml      | Tomatensoße     |
+| 1 Esslöffel | Olivenöl        |
+| 8 Esslöffel | Tomatenmark     |
+| 1 Teelöffel | Basilikum       |
+| 1 Teelöffel | Thymian         |
+| 1 Teelöffel | Oregano         |
+| 1 Teelöffel | Rosmarin        |
+| TODO        | Salz            |
+| TODO        | Pfeffer         |
 ** Zubereitung
-1. Die Zwiebel würfeln und den Knoblauch klein schneiden und in einer Pfanne mit etwas Öl glasig braten. Dabei die Chillischote zerkleinern.
-2. Die zerkleinerte Chillischote hinzugeben und auch kurz anbraten.
-3. Die Erdnussbutter hinzufügen und unter Rühren schmelzen lassen.
-4. Die Erdnüsse grob mixen. Die Hälfte der grob gemixten Erdnüsse hinzugeben.
-5. Den Rest der Erdnüsse fein mixen und hinzugeben.
-6. Das Wasser hinzugeben und die Mischung rühren bis eine geschmeidige Soße entsteht.
-7. Den Zitronensaft, das Sambal Olek, den Cayennenpfeffer, die Sojasoße, und den Zucker hinzugeben.
-8. Alles vermischen und kurz aufkochen lassen.
+1. Die Zwiebeln und den Knoblauch in einen Mixer geben und gut pyrieren.
+2. Die restlichen Zutaten in den Mixer geben und ebenfalls gut pyrieren.
+* Pizzateig
+** Zutaten
+| *Menge*       | *Zutat*                                        |
+|---------------+------------------------------------------------|
+| 125 ml        | Wasser (lauwarm)                               |
+| 0.5 Würfel    | Hefe                                           |
+| 0.5 Teelöffel | Salz                                           |
+| 1 Prise       | Zucker                                         |
+| 1 Esslöffel   | Öl (Olivenöl oder Öl von getrockneten Tomaten) |
+| 250 g         | Mehl (Weizenmehl oder 50:50 Weizen:Dinkel)     |
+** Zubereitung
+1. Das Wasser, die Hefe, das Salz, den Zucker, und das Öl in eine Schüssel geben und vermischen.
+2. Das Mehl hinzugeben und alles vermischen.
+3. Die Schüssel abdecken und den Teig 40 Minuten lang gehen lassen.
+* Suppe mit Grießnockerln
+** Zutaten
+| *Menge* | *Zutat*            |
+|---------+--------------------|
+| 40 g    | Butter             |
+| 60 g    | Vollkorngrieß      |
+| 1       | Ei                 |
+| TODO    | Salz               |
+| 1 l     | Wasser             |
+| 20 g    | Gemüsebrühenpulver |
+** Zubereitung
+1. Die Butter in einem Topf schmelzen, aber nicht zu heiß werden lassen.
+2. Den Vollkorngrieß und das Ei hinzugeben und verrühren.
+3. Mit Salz würzen und quellen lassen (ca. 10 Minuten).
+4. Das Wasser und das Gemüsebrühenpulver in einen anderen Topf geben und zum Kochen bringen.
+5. Mit einem Teelöffel immer Teig aus dem ersten Topf entnehmen, mit einem anderen Teelöffel zu einem Nockerl formen, und in den Topf mit der Gemüsebrühe geben.
+6. Die Suppe 15 Minuten lang kochen lassen.
 * Waffeln
 ** Zutaten
 | *Menge*     | *Zutat*       |
@@ -152,94 +279,3 @@ In jedem Fall weiter:
 1. Das Mehl, das Backpulver, und die Eier hinzufügen.
 2. Alles gut durchmischen.
 3. Die Waffeln in einem gefetteten Waffeleisen zubereiten.
-* Pizzateig
-** Zutaten
-| *Menge*       | *Zutat*                                        |
-|---------------+------------------------------------------------|
-| 125 ml        | Wasser (lauwarm)                               |
-| 0.5 Würfel    | Hefe                                           |
-| 0.5 Teelöffel | Salz                                           |
-| 1 Prise       | Zucker                                         |
-| 1 Esslöffel   | Öl (Olivenöl oder Öl von getrockneten Tomaten) |
-| 250 g         | Mehl (Weizenmehl oder 50:50 Weizen:Dinkel)     |
-** Zubereitung
-1. Das Wasser, die Hefe, das Salz, den Zucker, und das Öl in eine Schüssel geben und vermischen.
-2. Das Mehl hinzugeben und alles vermischen.
-3. Die Schüssel abdecken und den Teig 40 Minuten lang gehen lassen.
-* Pizzasoße
-** Zutaten
-| *Menge* | *Zutat*             |
-|---------+---------------------|
-|         |                     |
-** Zubereitung
-1. 
-* Currywurst
-** Zutaten
-| *Menge*       | *Zutat*                 |
-|---------------+-------------------------|
-| 1             | kleine Zwiebel          |
-|               | Olivenöl                |
-| 2 Esslöffel   | Tomatenmark             |
-| TODO          | Wasser                  |
-| 250 ml        | Ketchup                 |
-| 1.5 Esslöffel | Balsamico               |
-| 0.5 Esslöffel | Honig                   |
-| 1 Teeflöffel  | Sojasoße                |
-| 2 Esslöffel   | Currypulver             |
-| 1 Esslöffel   | Cayennenpfeffer         |
-| 1 Esslöffel   | Chillipulver            |
-| 1 Teelöffel   | Pfeffer                 |
-| 8             | Bratwürste (mittelgroß) |
-| 6             | Brötchen                |
-** Zubereitung
-1. Die Zwiebeln würfeln und in einer Pfanne mit etwas Öl glasig braten.
-2. Das Tomatenmark hinzugeben und kurz mitbraten.
-3. Die Mischung mit dem Wasser ablöschen.
-4. Das Ketchup, den Balsamico, und den Honig hinzugeben.
-5. Alles vermischen und ein paar Minuten lang köcheln lassen.
-6. Die Sojasoße, das Currypulver, den Cayennenpfeffer, das Chillipulver, und den Pfeffer hinzugeben.
-7. Die Soße parallel zur Zubereitung der Bratwürste köcheln lassen.
-8. In eine Pfanne Öl geben und die Bratwürste anbraten.
-9. Die Bratwürste auf zwei Teller verteilen, mit der Soße übergießen, und zusammen mit den Brötchen servieren.
-* Currygemüse
-** Zutaten
-| *Menge* | *Zutat*             |
-|---------+---------------------|
-|         |                     |
-** Zubereitung
-1. 
-* Haferbrei mit Banane
-** Zutaten
-| *Menge*     | *Zutat*      |
-|-------------+--------------|
-| 600 ml      | Milch        |
-| 3 Esslöffel | Zucker       |
-| 3           | Bananen      |
-| 105 g       | Haferflocken |
-** Zubereitung
-1. Die Milch und den Zucker in einen Topf geben und erhitzen.
-2. Die Bananen in dünne Scheiben schneiden.
-3. Sobald die Milch kocht, die Haferflocken hinzugeben und alles verrühren.
-4. Die schnittenen Bananen hinzugeben und alles verrühren.
-5. Köcheln lassen, bis sich die Bananenscheiben größtenteils aufgelöst haben (ca. 10 Minuten).
-* Grießbrei
-** Zutaten
-| *Menge* | *Zutat*             |
-|---------+---------------------|
-|         |                     |
-** Zubereitung
-1. 
-* Suppe mit Grießbällchen
-** Zutaten
-| *Menge* | *Zutat*             |
-|---------+---------------------|
-|         |                     |
-** Zubereitung
-1. 
-* Bechamel-Soße
-** Zutaten
-| *Menge* | *Zutat*             |
-|---------+---------------------|
-|         |                     |
-** Zubereitung
-1. 
