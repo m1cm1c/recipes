@@ -206,19 +206,19 @@ Github: https://github.com/m1cm1c/recipes
 7. Die Soße einziehen lassen (mindestens 20 Minuten).
 * Pizzasoße
 ** Zutaten
-| *Menge*     | *Zutat*         |
-|-------------+-----------------|
-| 0.5         | kleine Zwiebeln |
-| 1 Zehe      | Knoblauch       |
-| 500 ml      | Tomatensoße     |
-| 1 Esslöffel | Olivenöl        |
-| 8 Esslöffel | Tomatenmark     |
-| 1 Teelöffel | Basilikum       |
-| 1 Teelöffel | Thymian         |
-| 1 Teelöffel | Oregano         |
-| 1 Teelöffel | Rosmarin        |
-| TODO        | Salz            |
-| TODO        | Pfeffer         |
+| *Menge*       | *Zutat*         |
+|---------------+-----------------|
+| 0.5           | kleine Zwiebeln |
+| 1 Zehe        | Knoblauch       |
+| 500 ml        | Tomatensoße     |
+| 1 Esslöffel   | Olivenöl        |
+| 8 Esslöffel   | Tomatenmark     |
+| 1 Teelöffel   | Basilikum       |
+| 1 Teelöffel   | Thymian         |
+| 1 Teelöffel   | Oregano         |
+| 1 Teelöffel   | Rosmarin        |
+| 0.5 Teelöffel | Salz            |
+| 1 Teelöffel   | Pfeffer         |
 ** Zubereitung
 1. Die Zwiebeln und den Knoblauch in einen Mixer geben und gut pyrieren.
 2. Die restlichen Zutaten in den Mixer geben und ebenfalls gut pyrieren.
