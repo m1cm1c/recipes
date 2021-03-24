@@ -30,14 +30,14 @@ Github: https://github.com/m1cm1c/recipes
 | *Menge*       | *Zutat*                 |
 |---------------+-------------------------|
 | 1             | kleine Zwiebel          |
-|               | Olivenöl                |
+| etwas         | Olivenöl                |
 | 2 Esslöffel   | Tomatenmark             |
-| TODO          | Wasser                  |
+| 120 ml        | Wasser                  |
 | 250 ml        | Ketchup                 |
 | 1.5 Esslöffel | Balsamico               |
 | 0.5 Esslöffel | Honig                   |
 | 1 Teeflöffel  | Sojasoße                |
-| 2 Esslöffel   | Currypulver             |
+| 3 Esslöffel   | Currypulver             |
 | 1 Esslöffel   | Cayennenpfeffer         |
 | 1 Esslöffel   | Chillipulver            |
 | 1 Teelöffel   | Pfeffer                 |
