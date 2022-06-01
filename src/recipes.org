@@ -53,6 +53,26 @@ Github: https://github.com/m1cm1c/recipes
 7. Die Soße parallel zur Zubereitung der Bratwürste köcheln lassen.
 8. In eine Pfanne Öl geben und die Bratwürste anbraten.
 9. Die Bratwürste auf zwei Teller verteilen, mit der Soße übergießen, und zusammen mit den Brötchen servieren.
+* Eiersalat
+** Zutaten
+| *Menge*        | *Zutat*             |
+|----------------+---------------------|
+| 12             | Eier                |
+| 6              | kleine saure Gurken |
+| 2 Esslöffel    | Senf                |
+| 5 Esslöffel    | Mayonnaise          |
+| 3 Esslöffel    | Joghurt             |
+| 2 Esslöffel    | Essig               |
+| 0.5 Teeflöffel | Salz                |
+| 0.5 Teelöffel  | Pfeffer             |
+|                | Petersilie          |
+|                | Schnittlauch        |
+|                | Chillipulver        |
+** Zubereitung
+1. Die Eier 10 Minuten lang kochen.
+2. Die sauren Gurken klein schneiden.
+3. Alle Zutaten bis auf die Eier in einer Schüssel vermischen.
+4. Die Eier schälen, schneiden, in die Schüssel geben, und vermischen.
 * Erdnusssoße
 ** Zutaten
 | *Menge*     | *Zutat*                          |
@@ -133,8 +153,32 @@ Github: https://github.com/m1cm1c/recipes
 8. Die Tomatensoße und die gehackten Tomaten hinzugeben und 2 bis 3 Minuten köcheln lassen.
 9. Die vorbereiteten Eier hinzugeben.
 10. Salz, Pfeffer, Zucker, Paprikapulver, und Oregano hinzugeben.
-11. Alles 10 Minuten lang köcheln lassen. Dabei ab und zu langsam umruhren.
+11. Alles 10 Minuten lang köcheln lassen. Dabei ab und zu langsam umrühren.
 12. Die Eier in Tomatensoße zusammen mit Reis servieren.
+* Kartoffelsalat
+** Zutaten
+| *Menge*        | *Zutat*            |
+|----------------+--------------------|
+| 2.5 kg         | Kartoffeln         |
+| 330 ml         | Wasser             |
+| 9 g            | Gemüsebrühenpulver |
+| 1 (mittelgroß) | Zwiebeln           |
+| 4 Esslöffel    | Balsamico          |
+| 8 (kleine)     | Essiggurken        |
+| 3 Esslöffel    | Senf               |
+| 300 g          | Mayonnaise         |
+| 1 Teelöffel    | Pfeffer            |
+|                | Schnittlauch       |
+|                | Petersilie         |
+** Zubereitung
+1. Die Kartoffeln in gesalzenem Wasser kochen.
+2. Die Zwiebeln fein würfeln.
+3. Das Wasser, das Gemüsebrühenpulver, und die gewürfelten Zwiebeln in einen Topf geben und 3 Minuten lang kochen lassen. Dabei auch den Balsamico hinzugeben.
+4. Die Brühe abkühlen lassen.
+5. Die Essiggurken fein würfeln und in eine Schüssel geben. Die Kartoffeln in 1 cm dicke Scheiben schneiden und ebenfalls in die Schüssel geben.
+6. Den Senf in die Brühe mischen und die Brühe in die Schüssel geben.
+7. Die meiste Flüssigkeit in die Kartoffeln einziehen lassen. Dazu die Kartoffeln mehrfach leicht umrühren.
+8. Die Mayonnaise, den Schnittlauch, und die Petersilie hinzugeben und alles noch ein paar mal leicht umrühren.
 * Käsespätzle
 ** Zutaten
 | *Menge*  | *Zutat*                   |
