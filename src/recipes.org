@@ -34,13 +34,12 @@ Github: https://github.com/m1cm1c/recipes
 | 2 Esslöffel   | Tomatenmark             |
 | 120 ml        | Wasser                  |
 | 250 ml        | Ketchup                 |
-| 1.5 Esslöffel | Balsamico               |
-| 0.5 Esslöffel | Honig                   |
+| 1 Teelöffel   | Pfeffer                 |
 | 1 Teeflöffel  | Sojasoße                |
 | 3 Esslöffel   | Currypulver             |
 | 1 Esslöffel   | Cayennenpfeffer         |
 | 1 Esslöffel   | Chillipulver            |
-| 1 Teelöffel   | Pfeffer                 |
+| 1.5 Esslöffel | Balsamico               |
 | 8             | Bratwürste (mittelgroß) |
 | 6             | Brötchen                |
 ** Zubereitung
@@ -316,7 +315,7 @@ Github: https://github.com/m1cm1c/recipes
 |-------------+---------------|
 | 250 g       | Milch         |
 | 125 g       | Butter        |
-| 100 g       | Zucker        |
+| 80 g     | Zucker        |
 | 1 Päckchen  | Vanillezucker |
 | 1 Prise     | Salz          |
 | 250 g       | Mehl          |
@@ -330,7 +329,7 @@ Wenn keine Mikrowell verfügbar ist:
 
 Wenn eine Mikrowelle verfügbar ist:
 1. Die Milch, die Butter, den Zucker, den Vanillezucker, und das Salz in eine Schüssel geben.
-2. Den Inhalt der Schüssel 2 Minuten lang bei 800 W in der Mikrowell erwärmen.
+2. Den Inhalt der Schüssel 1:30 Minuten lang bei 800 W in der Mikrowell erwärmen.
 3. Die Zutaten vermischen, so dass die Butter schmilzt.
 
 In jedem Fall weiter:
