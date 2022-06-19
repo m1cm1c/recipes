@@ -241,17 +241,17 @@ Github: https://github.com/m1cm1c/recipes
 10. Mit Kräuterquark oder Tomatensuppe servieren.
 * Nudelsalt
 ** Zutaten
-| *Menge*    | *Zutat*             |
-|------------+---------------------|
-| 250 g      | Nudeln              |
-| 4          | saure Gurken        |
-| 5 EL       | Mayonnaise          |
-| 4 EL       | Essig               |
-| 3 EL       | Öl                  |
-| 1.5 EL     | Senf (mittelscharf) |
-|            | Salz und Pfeffer    |
-| 1 Dose     | Karotten mit Erbsen |
-| 1 Dose     | Mais                |
+| *Menge* | *Zutat*             |
+|---------+---------------------|
+| 500 g   | Nudeln              |
+| 4       | saure Gurken        |
+| 5 EL    | Mayonnaise          |
+| 4 EL    | Essig               |
+| 3 EL    | Sonnenblumenöl      |
+| 1.5 EL  | Senf (mittelscharf) |
+|         | Salz und Pfeffer    |
+| 1 Dose  | Karotten mit Erbsen |
+| 1 Dose  | Mais                |
 ** Zubereitung
 1. Die Nudeln gut in gesalzenem Wasser kochen.
 2. Die sauren Gurken klein schneiden und in eine große Schüssel geben.
