@@ -260,6 +260,30 @@ Github: https://github.com/m1cm1c/recipes
 5. Die Karotten und Erbsen (abgetropft, aber die Flüssigkeit auffangen) und den Mais (abgetropft) hinzugeben.
 6. Alles gut durchmischen. Dabei etwas von der aufgefangenen Flüssigkeit der Karotten und Erbsen hinzugeben, so dass die Soße leicht flüssig ist.
 7. Die Soße einziehen lassen (mindestens 20 Minuten).
+* Pilzsoße (für Spaghetti)
+** Zutaten
+| *Menge*          | *Zutat*            |
+|------------------+--------------------|
+|                  | Sonnenblumenöl     |
+|                  | Butter             |
+| 2                | Zwiebeln           |
+| 400 g            | Champignons        |
+| 4 Esslöffel      | Mehl               |
+| 300 g            | Milch              |
+| 1 Becher (200 g) | Schlagsahne        |
+| 2 Teelöffel      | Gemüsebrühenpulver |
+|                  | Paprikapulver      |
+|                  | Bird's Eye         |
+|                  | Petersilie         |
+|                  | Thymian            |
+|                  | Pfeffer            |
+** Zubereitung
+1. Zwiebeln würfeln und im Sonnenblumenöl und in der Butter glasig braten.
+2. In Scheiben geschnittene Pilze hinzugeben und anbraten.
+3. Das Mehl auf die Pilze streuen und anschwitzen bis es braun ist.
+4. Mit der Milch ablöschen.
+5. Die Sahne hinzugeben und vermischen.
+6. Alle weiteren Zutaten hinzugeben.
 * Pizzasoße
 ** Zutaten
 | *Menge*       | *Zutat*         |
@@ -309,6 +333,41 @@ Github: https://github.com/m1cm1c/recipes
 4. Das Wasser und das Gemüsebrühenpulver in einen anderen Topf geben und zum Kochen bringen.
 5. Mit einem Teelöffel immer Teig aus dem ersten Topf entnehmen, mit einem anderen Teelöffel zu einem Nockerl formen, und in den Topf mit der Gemüsebrühe geben.
 6. Die Suppe 15 Minuten lang kochen lassen.
+* Thai Curry
+** Zutaten
+| *Menge*              | *Zutat*            |
+|----------------------+--------------------|
+|                      | Olivenöl           |
+| 2                    | kleine Zwiebeln    |
+| 2 Zehen              | Knoblauch          |
+| 1 Stück (daumengroß) | Ingwer             |
+|                      | Erdnüsse           |
+| 3 Esslöffel          | rotes Curry-Pulver |
+| 500 ml               | Kokosmilch         |
+| 500 ml               | Milch              |
+| 80 g                 | Limettensaft       |
+| 2 Esslöffel          | Sojasoße           |
+| 2 Esslöffel          | Erdnussbutter      |
+| 1                    | grüne Zucchini     |
+| 1                    | gelbe Zucchini     |
+| 1                    | rote Paprika       |
+| 1                    | gelbe Paprika      |
+| 4                    | Karotten           |
+|                      | Brokkoli           |
+|                      | Blumenkohl         |
+|                      | Mungbohnen         |
+| 3 Schoten            | Chilli             |
+| 400 g                | Tofu               |
+|                      | Salz               |
+|                      | Reis               |
+** Zubereitung
+1. Die Zwiebel würfeln und in Olivenöl im Wok anbraten.
+2. Den Knoblauch und den Ingwer hinzufügen und mit anbraten.
+3. Die Erdnüssel und das rote Curry-Pulver hinzufügen und mit anbraten.
+4. Mit Kokosmilch ablöschen, dann die Milch hinzugeben.
+5. Limettensaft, Sojasoße und Erdnussbutter untermischen.
+6. Die restlichen Zutaten bis auf den Reis hinzugeben.
+7. Alles 15 Minuten lang köcheln lassen.
 * Waffeln
 ** Zutaten
 | *Menge*     | *Zutat*       |
