@@ -173,12 +173,12 @@ Github: https://github.com/m1cm1c/recipes
 |----------------+--------------------|
 | 2.5 kg         | Kartoffeln         |
 | 330 ml         | Wasser             |
-| 9 g            | Gemüsebrühenpulver |
+| 18 g           | Gemüsebrühenpulver |
 | 1 (mittelgroß) | Zwiebeln           |
 | 4 Esslöffel    | Balsamico          |
 | 8 (kleine)     | Essiggurken        |
-| 3 Esslöffel    | Senf               |
-| 300 g          | Mayonnaise         |
+| 4 Esslöffel    | Senf               |
+| 180 g          | Mayonnaise         |
 | 1 Teelöffel    | Pfeffer            |
 |                | Schnittlauch       |
 |                | Petersilie         |
