@@ -316,6 +316,30 @@ Github: https://github.com/m1cm1c/recipes
 1. Das Wasser, die Hefe, das Salz, den Zucker, und das Öl in eine Schüssel geben und vermischen.
 2. Das Mehl hinzugeben und alles vermischen.
 3. Die Schüssel abdecken und den Teig 40 Minuten lang gehen lassen.
+* Schupfnudelpfanne
+** Zutaten
+| *Menge*              | *Zutat*                |
+|----------------------+------------------------|
+| 2 Esslöffel          | Öl                     |
+| 500 g                | Schupfnudeln           |
+| 25 Stück (ca. 400 g) | Cocktailtomaten        |
+| 1 Zehe               | Knoblauch              |
+| 2 Esslöffel          | Tomatenmark            |
+| 1 Teelöffel          | Butter                 |
+| 200 ml               | süße Sahne             |
+| 1 Teelöffel          | Gemüsebrühenpulver     |
+|                      | Pfeffer                |
+| 125 g                | Mozarella (abgetropft) |
+|                      | Basilikum              |
+** Zubereitung
+1. Die Schüpfnudeln im Öl einige Minuten lang anbraten.
+2. Die Tomaten hinzugeben und mit anbraten.
+3. Den Mozarella in Würfel schneiden (zur Vorbereitung).
+4. Den Knoblauch und das Tomatenmark hinzugeben und mit anbraten.
+5. Die Butter hinzugeben und schmelzen lassen, dann mit der Sahne ablöschen.
+6. Mit Gemüsebrühenpulver und Pfeffer würzen.
+7. Den Mozarella hinzugeben.
+8. Den Basilikum schneiden und hinzugeben.
 * Suppe mit Grießnockerln
 ** Zutaten
 | *Menge* | *Zutat*            |
