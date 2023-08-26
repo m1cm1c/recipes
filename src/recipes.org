@@ -112,15 +112,15 @@ Github: https://github.com/m1cm1c/recipes
 3. Den Brei nochmals kurz aufkochen lassen.
 * Guacamole
 ** Zutaten
-| *Menge*       | *Zutat*              |
-|---------------+----------------------|
-| 2             | Avocados             |
-| 2 Teelöffel   | Tomatenmark          |
-| 1 Teelöffel   | Salz                 |
-| 1 Teelöffel   | Pfeffer              |
-| 2 Teelöffel   | Limettensaft         |
-| 0.5           | kleine rote Zwiebeln |
-|               | Chilli               |
+| *Menge*     | *Zutat*              |
+|-------------+----------------------|
+| 2           | Avocados             |
+| 2 Esslöffel | Tomatenmark          |
+| 1 Teelöffel | Salz                 |
+| 1 Teelöffel | Pfeffer              |
+| 2 Esslöffel | Limettensaft         |
+| 0.5         | kleine rote Zwiebeln |
+|             | Chilli               |
 ** Zubereitung
 1. Alles zerkleinern und vermischen.
 * Haferbrei mit Banane
@@ -318,19 +318,19 @@ Github: https://github.com/m1cm1c/recipes
 3. Die Schüssel abdecken und den Teig 40 Minuten lang gehen lassen.
 * Schupfnudelpfanne
 ** Zutaten
-| *Menge*              | *Zutat*                |
-|----------------------+------------------------|
-| 2 Esslöffel          | Öl                     |
-| 500 g                | Schupfnudeln           |
-| 25 Stück (ca. 400 g) | Cocktailtomaten        |
-| 1 Zehe               | Knoblauch              |
-| 2 Esslöffel          | Tomatenmark            |
-| 1 Teelöffel          | Butter                 |
-| 200 ml               | süße Sahne             |
-| 1 Teelöffel          | Gemüsebrühenpulver     |
-|                      | Pfeffer                |
-| 125 g                | Mozarella (abgetropft) |
-|                      | Basilikum              |
+| *Menge*               | *Zutat*                |
+|-----------------------+------------------------|
+| 2 Esslöffel           | Öl                     |
+| 500 g                 | Schupfnudeln           |
+| 650 g                 | Cocktailtomaten        |
+| 2 Zehen               | Knoblauch              |
+| 4 Esslöffel           | Tomatenmark            |
+| 2 Teelöffel           | Butter                 |
+| 400 ml (2 Becher)     | süße Sahne             |
+| 2 Teelöffel           | Gemüsebrühenpulver     |
+|                       | Pfeffer                |
+| 190 g (1.5 Packungen) | Mozarella (abgetropft) |
+|                       | Basilikum              |
 ** Zubereitung
 1. Die Schüpfnudeln im Öl einige Minuten lang anbraten.
 2. Die Tomaten hinzugeben und mit anbraten.
