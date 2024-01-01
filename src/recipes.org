@@ -54,19 +54,20 @@ Github: https://github.com/m1cm1c/recipes
 9. Die Bratwürste auf zwei Teller verteilen, mit der Soße übergießen, und zusammen mit den Brötchen servieren.
 * Eiersalat
 ** Zutaten
-| *Menge*        | *Zutat*             |
-|----------------+---------------------|
-| 12             | Eier                |
-| 6              | kleine saure Gurken |
-| 2 Esslöffel    | Senf                |
-| 5 Esslöffel    | Mayonnaise          |
-| 3 Esslöffel    | Joghurt             |
-| 2 Esslöffel    | Essig               |
-| 0.5 Teeflöffel | Salz                |
-| 0.5 Teelöffel  | Pfeffer             |
-|                | Petersilie          |
-|                | Schnittlauch        |
-|                | Chillipulver        |
+| *Menge*        | *Zutat*                                 |
+|----------------+-----------------------------------------|
+| 12             | Eier                                    |
+| 6              | kleine saure Gurken                     |
+| 2 Esslöffel    | Senf                                    |
+| 5 Esslöffel    | Mayonnaise                              |
+| 3 Esslöffel    | Joghurt                                 |
+| 3 Esslöffel    | Essiggurken-Flüssigkeit mit Senfkörnern |
+| 1 Esslöffel    | Balsamico                               |
+| 0.5 Teeflöffel | Salz                                    |
+| 0.5 Teelöffel  | Pfeffer                                 |
+| 1              | Chillischote                            |
+|                | Petersilie                              |
+|                | Schnittlauch                            |
 ** Zubereitung
 1. Die Eier 10 Minuten lang kochen.
 2. Die sauren Gurken klein schneiden.
