@@ -291,9 +291,9 @@ Github: https://github.com/m1cm1c/recipes
 |---------------+-----------------|
 | 0.5           | kleine Zwiebeln |
 | 1 Zehe        | Knoblauch       |
-| 500 ml        | Tomatensoße     |
+| 300 g         | Tomatensoße     |
 | 1 Esslöffel   | Olivenöl        |
-| 8 Esslöffel   | Tomatenmark     |
+| 180 g         | Tomatenmark     |
 | 1 Teelöffel   | Basilikum       |
 | 1 Teelöffel   | Thymian         |
 | 1 Teelöffel   | Oregano         |
