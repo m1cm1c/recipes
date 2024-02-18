@@ -285,6 +285,37 @@ Github: https://github.com/m1cm1c/recipes
 4. Mit der Milch ablöschen.
 5. Die Sahne hinzugeben und vermischen.
 6. Alle weiteren Zutaten hinzugeben.
+* Pizzabrötchen
+** Zutaten
+| *Menge*     | *Zutat*                             |
+|-------------+-------------------------------------|
+| 2 Becher    | Schmand                             |
+| 1 Becher    | Creme Fraiche                       |
+| 1           | kleine Zwiebel                      |
+| 3 Zehen     | Knoblauch                           |
+| 1           | Paprika                             |
+| 0.5 Dose    | Mais                                |
+| 3           | Champignons                         |
+| 5           | getrocknete Tomaten                 |
+| 4           | Oliven                              |
+| 1 Packung   | vegetarischer Wurst-Aufschnitt      |
+| 3 Teelöffel | Gemüsebrühe                         |
+| 1 Teelöffel | Pfeffer                             |
+| 2           | Chillis                             |
+| 1 Teelöffel | Bird's Eye                          |
+|             | Schnittlauch                        |
+|             | Petersilie                          |
+|             | Basilikum                           |
+|             | Emmentaler und Tilsitter (gerieben) |
+| 2 Packungen | Aufbackbrötchen                     |
+| 2.5 Tuben   | Tomatenmark                         |
+|             | Mozarella (gerieben)                |
+** Zubereitung
+1. Die Zutaten bis einschließlich Emmentaler und Tilsitter in einer Schüssel vermischen.
+2. Die Bröchten durchschneiden und beide Seiten mit Tomatenmark beschmieren.
+3. Die Mischung auf die Brötchen schmieren.
+4. Die Pizzabrötchen mit Mozarella bestreuen.
+5. 20 Minuten (ausgehend von kaltem Backofen) bei 200 Grad Ober-Unterhitze backen.
 * Pizzasoße
 ** Zutaten
 | *Menge*       | *Zutat*         |
