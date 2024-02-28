@@ -18,6 +18,28 @@ Github: https://github.com/m1cm1c/recipes
 2. Das Lorbeerblatt hinzugeben.
 3. Das Mehl langsam hinzugeben und anschwitzen.
 4. Mit Salz, Pfeffer, und Cayennenpfeffer abschmecken.
+* Bohnengemüse
+** Zutaten
+| *Menge* | *Zutat*                                 |
+|---------+-----------------------------------------|
+|         | grüne Bohnen                            |
+|         | Salz                                    |
+|         | Butter                                  |
+|         | Mehl                                    |
+|         | Wasser                                  |
+|         | Milch                                   |
+|         | Gemüsebrühenpulver (für 250 bis 500 ml) |
+|         | Bohnenkraut                             |
+|         | Pfeffer                                 |
+** Zubereitung
+1. Die grünen Bohnen kurz in gesalzenem Wasser kochen und dann absieben.
+2. In einem Topf die Butter schmelzen lassen, dann das Mehl hinzugeben und kurz anschwitzen lassen (nicht braun werden lassen).
+3. Etwas Wasser und die Milch hinzugeben und kräftig mit einem Schneebesen umrühren, um Klumpen zu vermeiden.
+4. Das Gemüsebrühenpulver hinzugeben und abschmecken.
+5. Das Bohnenkraut und den Pfeffer hinzugeben.
+6. Die gekochten Bohnen hinzugeben.
+7. Wenige Minuten lang kochen lassen.
+8. Mit gekochten Kartoffeln servieren.
 * Currygemüse
 ** Zutaten
 | *Menge* | *Zutat*             |
