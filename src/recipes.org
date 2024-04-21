@@ -11,6 +11,10 @@ Github: https://github.com/m1cm1c/recipes
 - Laugenburger
 - Pommes
 - Balkansalat
+* Cocktails
+- Mojito
+- Sex on the Beach
+- Turquoise Energy
 * Baked Beans
 ** Zutaten
 | *Menge*             | *Zutat*                   |
