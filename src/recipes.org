@@ -28,6 +28,14 @@ Github: https://github.com/m1cm1c/recipes
 4. Mit Strohhalm servieren.
 ** Sex on the Beach
 ** Turquoise Energy
+*** Zutaten
+| *Menge*   | *Zutat*                 |
+|-----------+-------------------------|
+| 40 g      | Wodka                   |
+| 150 g     | Monster Energy          |
+| 60 g      | Holunderblütensirup     |
+|           | Wasser                  |
+| 5 Tropfen | blaue Lebensmittelfarbe |
 * Shots
 ** Amaretto
 ** Aperitivo
