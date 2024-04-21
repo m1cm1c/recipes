@@ -5,8 +5,27 @@
 Github: https://github.com/m1cm1c/recipes
 * Cocktails
 ** 43 mit Milch
-** Blue Andy
+*** Zutaten
+| *Menge* | *Zutat* |
+|---------+---------|
+|         | 43      |
+|         | Milch   |
+* Blue Andy
 ** Mojito
+*** Zutaten
+| *Menge* | *Zutat*        |
+|---------+----------------|
+|         | weißer Rum     |
+| 18 g    | Limettensaft   |
+| 22 g    | Zitronensaft   |
+| 35 g    | Zucker         |
+|         | Wasser         |
+| 15 g    | brauner Zucker |
+*** Zubereitung
+1. Den Rum, den Limettensaft, den Zitronensaft, den normalen Zucker, und das Wasser in ein Glas (ca. 400 ml) geben.
+2. Rühren bis der Zucker größtenteils aufgelöst ist.
+3. Den brauenne Zucker hinzugeben.
+4. Mit Strohhalm servieren.
 ** Sex on the Beach
 ** Turquoise Energy
 * Shots
