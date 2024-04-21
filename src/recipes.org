@@ -3,13 +3,16 @@
 #+OPTIONS: toc:2
 #+LANGUAGE: de
 Github: https://github.com/m1cm1c/recipes
-* Drinks
+* Cocktails
 ** 43 mit Milch
-** Amaretto
 ** Blue Andy
 ** Mojito
 ** Sex on the Beach
 ** Turquoise Energy
+* Shots
+** Amaretto
+** Aperitivo
+** Edelkirsch
 * Soft Drinks
 ** Limonade
 * Gerichte ohne Rezept
