@@ -10,7 +10,7 @@ Github: https://github.com/m1cm1c/recipes
 |---------+---------|
 |         | 43      |
 |         | Milch   |
-* Blue Andy
+** Blue Andy
 ** Mojito
 *** Zutaten
 | *Menge* | *Zutat*        |
