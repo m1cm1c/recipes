@@ -2,6 +2,15 @@
 #+TITLE: Rezepte
 #+LANGUAGE: de
 Github: https://github.com/m1cm1c/recipes
+* Ohne Rezept
+- Rosmarinkartoffeln
+- Gemüsepfannkuchen
+- Linsen mit Spätzle und Wiener Würstchen
+- Spaghetti Carbonara
+- Linsensuppe mit Wiener Würstchen
+- Laugenburger
+- Pommes
+- Balkansalat
 * Baked Beans
 ** Zutaten
 | *Menge*             | *Zutat*                   |
