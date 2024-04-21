@@ -2,6 +2,31 @@
 #+TITLE: Rezepte
 #+LANGUAGE: de
 Github: https://github.com/m1cm1c/recipes
+* Baked Beans
+** Zutaten
+| *Menge*             | *Zutat*                   |
+|---------------------+---------------------------|
+|                     | Olivenöl                  |
+| 1                   | große Zwiebel             |
+| 1 Zehe              | Knoblauch                 |
+| 1 kleines Stück     | Ingwer                    |
+| 1 große Gefrierdose | gehackte Tomaten          |
+| 1 Dose              | weiße Bohnen              |
+| 2                   | mittelgroße Chillischoten |
+|                     | Thymian                   |
+| 1 Teelöffel         | Paprikapulver             |
+| 1 Teelöffel         | Sojasoße                  |
+| 1 Esslöffel         | Ahornsirup                |
+|                     | Salz                      |
+|                     | Pfeffer                   |
+| 3                   | Lorbeerblätter            |
+** Zubereitung
+1. Die Zwiebel würfeln.
+2. Den Knoblauch und den Ingwer reiben (getrennt).
+3. Die Zwiebeln und den Knoblauch kurz anbraten.
+4. Den Ingwer kurz mitanbraten.
+5. Mit den gehackten Tomaten ablöschen.
+6. Die anderen Zutaten hinzugeben und 10 Minuten köcheln lassen.
 * Bechamel-Soße
 ** Zutaten
 | *Menge* | *Zutat*         |
@@ -57,7 +82,7 @@ Github: https://github.com/m1cm1c/recipes
 | 120 ml        | Wasser                  |
 | 250 ml        | Ketchup                 |
 | 1 Teelöffel   | Pfeffer                 |
-| 1 Teeflöffel  | Sojasoße                |
+| 1 Teelöffel   | Sojasoße                |
 | 3 Esslöffel   | Currypulver             |
 | 1 Esslöffel   | Cayennenpfeffer         |
 | 1 Esslöffel   | Chillipulver            |
@@ -74,6 +99,21 @@ Github: https://github.com/m1cm1c/recipes
 7. Die Soße parallel zur Zubereitung der Bratwürste köcheln lassen.
 8. In eine Pfanne Öl geben und die Bratwürste anbraten.
 9. Die Bratwürste auf zwei Teller verteilen, mit der Soße übergießen, und zusammen mit den Brötchen servieren.
+* Dönersoße
+** Zutaten
+| *Menge*     | *Zutat*      |
+|-------------+--------------|
+| 150 g       | Naturjoghurt |
+| 3 Esslöffel | Mayonnaise   |
+| 2 Zehen     | Knoblauch    |
+| 30 g        | Zitronensaft |
+| 2 Teelöffel | Dill         |
+|             | Petersilie   |
+| 1 Esslöffel | Olivenöl     |
+|             | Salz         |
+|             | Pfeffer      |
+** Zubereitung
+1. Alles kleinschneiden und vermischen.
 * Eiersalat
 ** Zutaten
 | *Menge*        | *Zutat*                                 |
@@ -85,7 +125,7 @@ Github: https://github.com/m1cm1c/recipes
 | 3 Esslöffel    | Joghurt                                 |
 | 3 Esslöffel    | Essiggurken-Flüssigkeit mit Senfkörnern |
 | 1 Esslöffel    | Balsamico                               |
-| 0.5 Teeflöffel | Salz                                    |
+| 0.5 Teelöffel  | Salz                                    |
 | 0.5 Teelöffel  | Pfeffer                                 |
 | 1              | Chillischote                            |
 |                | Petersilie                              |
@@ -120,6 +160,31 @@ Github: https://github.com/m1cm1c/recipes
 6. Das Wasser hinzugeben und die Mischung rühren bis eine geschmeidige Soße entsteht.
 7. Den Zitronensaft, das Sambal Olek, den Cayennenpfeffer, die Sojasoße, und den Zucker hinzugeben.
 8. Alles vermischen und kurz aufkochen lassen.
+* Gemüsebolognese
+** Zutaten
+|                  *Menge* | *Zutat*                      |
+|--------------------------+------------------------------|
+|                          | Olivenöl                     |
+|                        2 | mittelgroße Zwiebeln         |
+|                  2 Zehen | Knoblauch                    |
+|                        3 | Karotten                     |
+|                        1 | große Zucchini               |
+| 1 sehr große Gefrierdose | gehackte Tomaten             |
+|                          | getrocknete Sellergieblätter |
+|                          | Balsamico                    |
+|                          | Salz                         |
+|                          | Pfeffer                      |
+|                          | Basilikum                    |
+|                          | Oregano                      |
+|                          | Thymian                      |
+|                        2 | Wiener Würstchen             |
+** Zubereitung
+1. Das Gemüse würfeln.
+2. Die Zwiebeln und den Knoblauch anbraten.
+3. Die Karotten mitanbraten.
+4. Die Zucchini mitanbraten.
+5. Mit den gehackten Tomaten ablöschen.
+6. Die weiteren Zutaten hinzugen und kurz köcheln lassen.
 * Grießbrei
 ** Zutaten
 | *Menge*     | *Zutat*       |
@@ -235,6 +300,24 @@ Github: https://github.com/m1cm1c/recipes
 7. Eine Auflaufform fetten.
 8. Die Mischung in die Auflaufform geben und glatt streichen.
 9. Bei 200 °C (Ober- und Unterhitze) 20 Minuten lang backen.
+* Lauchgemüse mit Fadennudeln
+** Zutaten
+| *Menge*     | *Zutat*         |
+|-------------+-----------------|
+| 2           | kleine Zwiebeln |
+| 800 g       | Lauch           |
+| 60 g        | Butter          |
+| 80 g        | Mehl            |
+| 300 g       | Wasser          |
+| 400 g       | Milch           |
+| 1 Esslöffel | Gemüsebrühe     |
+|             | Pfeffer         |
+| 200 g       | Fadennudeln     |
+** Zubereitung
+1. Vorbereitung: Den Lauch in Rinnge schneiden.
+2. Die Zwiebeln in Streifen schneiden und kurz anbraten.
+3. Den Lauch unter Zugabe der Butter und etwas Wasser 10 Minuten lang dünsten.
+4. Die restlichen Zutaten hinzugeben und köcheln lassen bis die Fadennudeln durch sind.
 * Mexikanischer Reis mit Bohnen
 ** Zutaten
 | *Menge*     | *Zutat*                   |
