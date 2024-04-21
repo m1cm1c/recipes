@@ -4,6 +4,8 @@
 #+LANGUAGE: de
 Github: https://github.com/m1cm1c/recipes
 * Cocktails
+** 43 mit Milch
+** Amaretto
 ** Blue Andy
 ** Mojito
 ** Sex on the Beach
