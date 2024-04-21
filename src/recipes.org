@@ -1,5 +1,6 @@
 #+AUTHOR: Anonymous
 #+TITLE: Rezepte
+#+OPTIONS: toc:2
 #+LANGUAGE: de
 Github: https://github.com/m1cm1c/recipes
 * Cocktails
