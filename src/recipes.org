@@ -2,21 +2,22 @@
 #+TITLE: Rezepte
 #+LANGUAGE: de
 Github: https://github.com/m1cm1c/recipes
-* Ohne Rezept
-- Rosmarinkartoffeln
-- Gemüsepfannkuchen
-- Linsen mit Spätzle und Wiener Würstchen
-- Spaghetti Carbonara
-- Linsensuppe mit Wiener Würstchen
-- Laugenburger
-- Pommes
-- Balkansalat
 * Cocktails
-- Mojito
-- Sex on the Beach
-- Turquoise Energy
-* Baked Beans
-** Zutaten
+** Mojito
+** Sex on the Beach
+** Turquoise Energy
+* Gerichte ohne Rezept
+** Rosmarinkartoffeln
+** Gemüsepfannkuchen
+** Linsen mit Spätzle und Wiener Würstchen
+** Spaghetti Carbonara
+** Linsensuppe mit Wiener Würstchen
+** Laugenburger
+** Pommes
+** Balkansalat
+* Gerichte
+** Baked Beans
+*** Zutaten
 | *Menge*             | *Zutat*                   |
 |---------------------+---------------------------|
 |                     | Olivenöl                  |
@@ -33,15 +34,15 @@ Github: https://github.com/m1cm1c/recipes
 |                     | Salz                      |
 |                     | Pfeffer                   |
 | 3                   | Lorbeerblätter            |
-** Zubereitung
+*** Zubereitung
 1. Die Zwiebel würfeln.
 2. Den Knoblauch und den Ingwer reiben (getrennt).
 3. Die Zwiebeln und den Knoblauch kurz anbraten.
 4. Den Ingwer kurz mitanbraten.
 5. Mit den gehackten Tomaten ablöschen.
 6. Die anderen Zutaten hinzugeben und 10 Minuten köcheln lassen.
-* Bechamel-Soße
-** Zutaten
+** Bechamel-Soße
+*** Zutaten
 | *Menge* | *Zutat*         |
 |---------+-----------------|
 | 75 g    | Butter          |
@@ -51,13 +52,13 @@ Github: https://github.com/m1cm1c/recipes
 | TODO    | Salz            |
 | TODO    | Pfeffer         |
 | TODO    | Cayennenpfeffer |
-** Zubereitung
+*** Zubereitung
 1. Die Butter in einem Topf schmelzen.
 2. Das Lorbeerblatt hinzugeben.
 3. Das Mehl langsam hinzugeben und anschwitzen.
 4. Mit Salz, Pfeffer, und Cayennenpfeffer abschmecken.
-* Bohnengemüse
-** Zutaten
+** Bohnengemüse
+*** Zutaten
 | *Menge* | *Zutat*                                 |
 |---------+-----------------------------------------|
 |         | grüne Bohnen                            |
@@ -69,7 +70,7 @@ Github: https://github.com/m1cm1c/recipes
 |         | Gemüsebrühenpulver (für 250 bis 500 ml) |
 |         | Bohnenkraut                             |
 |         | Pfeffer                                 |
-** Zubereitung
+*** Zubereitung
 1. Die grünen Bohnen kurz in gesalzenem Wasser kochen und dann absieben.
 2. In einem Topf die Butter schmelzen lassen, dann das Mehl hinzugeben und kurz anschwitzen lassen (nicht braun werden lassen).
 3. Etwas Wasser und die Milch hinzugeben und kräftig mit einem Schneebesen umrühren, um Klumpen zu vermeiden.
@@ -78,15 +79,15 @@ Github: https://github.com/m1cm1c/recipes
 6. Die gekochten Bohnen hinzugeben.
 7. Wenige Minuten lang kochen lassen.
 8. Mit gekochten Kartoffeln servieren.
-* Currygemüse
-** Zutaten
+** Currygemüse
+*** Zutaten
 | *Menge* | *Zutat*             |
 |---------+---------------------|
 |         |                     |
-** Zubereitung
+*** Zubereitung
 1. 
-* Currywurst
-** Zutaten
+** Currywurst
+*** Zutaten
 | *Menge*       | *Zutat*                 |
 |---------------+-------------------------|
 | 1             | kleine Zwiebel          |
@@ -102,7 +103,7 @@ Github: https://github.com/m1cm1c/recipes
 | 1.5 Esslöffel | Balsamico               |
 | 8             | Bratwürste (mittelgroß) |
 | 6             | Brötchen                |
-** Zubereitung
+*** Zubereitung
 1. Die Zwiebeln würfeln und in einer Pfanne mit etwas Öl glasig braten.
 2. Das Tomatenmark hinzugeben und kurz mitbraten.
 3. Die Mischung mit dem Wasser ablöschen.
@@ -112,8 +113,8 @@ Github: https://github.com/m1cm1c/recipes
 7. Die Soße parallel zur Zubereitung der Bratwürste köcheln lassen.
 8. In eine Pfanne Öl geben und die Bratwürste anbraten.
 9. Die Bratwürste auf zwei Teller verteilen, mit der Soße übergießen, und zusammen mit den Brötchen servieren.
-* Dönersoße
-** Zutaten
+** Dönersoße
+*** Zutaten
 | *Menge*     | *Zutat*      |
 |-------------+--------------|
 | 150 g       | Naturjoghurt |
@@ -125,10 +126,10 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Esslöffel | Olivenöl     |
 |             | Salz         |
 |             | Pfeffer      |
-** Zubereitung
+*** Zubereitung
 1. Alles kleinschneiden und vermischen.
-* Eiersalat
-** Zutaten
+** Eiersalat
+*** Zutaten
 | *Menge*        | *Zutat*                                 |
 |----------------+-----------------------------------------|
 | 12             | Eier                                    |
@@ -143,13 +144,13 @@ Github: https://github.com/m1cm1c/recipes
 | 1              | Chillischote                            |
 |                | Petersilie                              |
 |                | Schnittlauch                            |
-** Zubereitung
+*** Zubereitung
 1. Die Eier 10 Minuten lang kochen.
 2. Die sauren Gurken klein schneiden.
 3. Alle Zutaten bis auf die Eier in einer Schüssel vermischen.
 4. Die Eier schälen, schneiden, in die Schüssel geben, und vermischen.
-* Erdnusssoße
-** Zutaten
+** Erdnusssoße
+*** Zutaten
 | *Menge*     | *Zutat*                          |
 |-------------+----------------------------------|
 | 3 Esslöffel | Öl                               |
@@ -164,7 +165,7 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Teelöffel | Cayennenpfeffer                  |
 | 4 Esslöffel | Sojasoße                         |
 | 1 Teelöffel | Zucker                           |
-** Zubereitung
+*** Zubereitung
 1. Die Zwiebel würfeln und den Knoblauch klein schneiden und in einer Pfanne mit etwas Öl glasig braten. Dabei die Chillischote zerkleinern.
 2. Die zerkleinerte Chillischote hinzugeben und auch kurz anbraten.
 3. Die Erdnussbutter hinzufügen und unter Rühren schmelzen lassen.
@@ -173,8 +174,8 @@ Github: https://github.com/m1cm1c/recipes
 6. Das Wasser hinzugeben und die Mischung rühren bis eine geschmeidige Soße entsteht.
 7. Den Zitronensaft, das Sambal Olek, den Cayennenpfeffer, die Sojasoße, und den Zucker hinzugeben.
 8. Alles vermischen und kurz aufkochen lassen.
-* Gemüsebolognese
-** Zutaten
+** Gemüsebolognese
+*** Zutaten
 |                  *Menge* | *Zutat*                      |
 |--------------------------+------------------------------|
 |                          | Olivenöl                     |
@@ -191,15 +192,15 @@ Github: https://github.com/m1cm1c/recipes
 |                          | Oregano                      |
 |                          | Thymian                      |
 |                        2 | Wiener Würstchen             |
-** Zubereitung
+*** Zubereitung
 1. Das Gemüse würfeln.
 2. Die Zwiebeln und den Knoblauch anbraten.
 3. Die Karotten mitanbraten.
 4. Die Zucchini mitanbraten.
 5. Mit den gehackten Tomaten ablöschen.
 6. Die weiteren Zutaten hinzugen und kurz köcheln lassen.
-* Grießbrei
-** Zutaten
+** Grießbrei
+*** Zutaten
 | *Menge*     | *Zutat*       |
 |-------------+---------------|
 | 1 Liter     | Milch         |
@@ -207,12 +208,12 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Päckchen  | Vanillezucker |
 | 1 Prise     | Salz          |
 | 100 g       | Weichweizengrieß |
-** Zubereitung
+*** Zubereitung
 1. Die Milch, den Zucker, den Vanillezucker, und das Salz in einen Topf geben und zum Kochen bringen.
 2. Den Weichweizengrieß langsam in den Topf geben und dabei kräftig mit einem Schneebesen rühren.
 3. Den Brei nochmals kurz aufkochen lassen.
-* Guacamole
-** Zutaten
+** Guacamole
+*** Zutaten
 | *Menge*     | *Zutat*              |
 |-------------+----------------------|
 | 2           | Avocados             |
@@ -222,24 +223,24 @@ Github: https://github.com/m1cm1c/recipes
 | 2 Esslöffel | Limettensaft         |
 | 0.5         | kleine rote Zwiebeln |
 |             | Chilli               |
-** Zubereitung
+*** Zubereitung
 1. Alles zerkleinern und vermischen.
-* Haferbrei mit Banane
-** Zutaten
+** Haferbrei mit Banane
+*** Zutaten
 | *Menge*     | *Zutat*      |
 |-------------+--------------|
 | 600 ml      | Milch        |
 | 3 Esslöffel | Zucker       |
 | 3           | Bananen      |
 | 105 g       | Haferflocken |
-** Zubereitung
+*** Zubereitung
 1. Die Milch und den Zucker in einen Topf geben und erhitzen.
 2. Die Bananen in dünne Scheiben schneiden.
 3. Sobald die Milch kocht, die Haferflocken hinzugeben und alles verrühren.
 4. Die schnittenen Bananen hinzugeben und alles verrühren.
 5. Köcheln lassen, bis sich die Bananenscheiben größtenteils aufgelöst haben (ca. 10 Minuten).
-* Indonische Eier in Tomatensoße (Telur Balado)
-** Zutaten
+** Indonische Eier in Tomatensoße (Telur Balado)
+*** Zutaten
 | *Menge*     | *Zutat*          |
 |-------------+------------------|
 |             | Reis             |
@@ -255,7 +256,7 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Teelöffel | Zucker           |
 | 1 Teelöffel | Paprikapulver    |
 | 1 Teelöffel | Oregano          |
-** Zubereitung
+*** Zubereitung
 1. Den Reis mit etwas Salz im Wasser kochen.
 2. Eier fest kochen (10 Minuten Kochzeit).
 3. Die gekochten Eier mit kaltem Wasser abschrecken und anschließend schälen.
@@ -268,8 +269,8 @@ Github: https://github.com/m1cm1c/recipes
 10. Salz, Pfeffer, Zucker, Paprikapulver, und Oregano hinzugeben.
 11. Alles 10 Minuten lang köcheln lassen. Dabei ab und zu langsam umrühren.
 12. Die Eier in Tomatensoße zusammen mit Reis servieren.
-* Kartoffelsalat
-** Zutaten
+** Kartoffelsalat
+*** Zutaten
 | *Menge*        | *Zutat*            |
 |----------------+--------------------|
 | 2.5 kg         | Kartoffeln         |
@@ -283,7 +284,7 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Teelöffel    | Pfeffer            |
 |                | Schnittlauch       |
 |                | Petersilie         |
-** Zubereitung
+*** Zubereitung
 1. Die Kartoffeln in gesalzenem Wasser kochen.
 2. Die Zwiebeln fein würfeln.
 3. Das Wasser, das Gemüsebrühenpulver, und die gewürfelten Zwiebeln in einen Topf geben und 3 Minuten lang kochen lassen. Dabei auch den Balsamico hinzugeben.
@@ -292,8 +293,8 @@ Github: https://github.com/m1cm1c/recipes
 6. Den Senf in die Brühe mischen und die Brühe in die Schüssel geben.
 7. Die meiste Flüssigkeit in die Kartoffeln einziehen lassen. Dazu die Kartoffeln mehrfach leicht umrühren.
 8. Die Mayonnaise, den Schnittlauch, und die Petersilie hinzugeben und alles noch ein paar mal leicht umrühren.
-* Käsespätzle
-** Zutaten
+** Käsespätzle
+*** Zutaten
 | *Menge*  | *Zutat*                   |
 |----------+---------------------------|
 |          | Öl                        |
@@ -303,7 +304,7 @@ Github: https://github.com/m1cm1c/recipes
 |          | Salz und Pfeffer          |
 | 100 g    | Emmentaler oder Maasdamer |
 | 0.5 kg   | Spätzle                   |
-** Zubereitung
+*** Zubereitung
 1. Die Zwiebeln würfeln und in einer Pfanne mit etwas Öl glasig braten.
 2. Mit Sahne ablöschen.
 3. Petersilie hinzugeben.
@@ -313,8 +314,8 @@ Github: https://github.com/m1cm1c/recipes
 7. Eine Auflaufform fetten.
 8. Die Mischung in die Auflaufform geben und glatt streichen.
 9. Bei 200 °C (Ober- und Unterhitze) 20 Minuten lang backen.
-* Lauchgemüse mit Fadennudeln
-** Zutaten
+** Lauchgemüse mit Fadennudeln
+*** Zutaten
 | *Menge*     | *Zutat*         |
 |-------------+-----------------|
 | 2           | kleine Zwiebeln |
@@ -326,13 +327,13 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Esslöffel | Gemüsebrühe     |
 |             | Pfeffer         |
 | 200 g       | Fadennudeln     |
-** Zubereitung
+*** Zubereitung
 1. Vorbereitung: Den Lauch in Rinnge schneiden.
 2. Die Zwiebeln in Streifen schneiden und kurz anbraten.
 3. Den Lauch unter Zugabe der Butter und etwas Wasser 10 Minuten lang dünsten.
 4. Die restlichen Zutaten hinzugeben und köcheln lassen bis die Fadennudeln durch sind.
-* Mexikanischer Reis mit Bohnen
-** Zutaten
+** Mexikanischer Reis mit Bohnen
+*** Zutaten
 | *Menge*     | *Zutat*                   |
 |-------------+---------------------------|
 | 1 Tasse     | Reis                      |
@@ -347,7 +348,7 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Dose      | gehackte Tomaten          |
 | 2 Scheiben  | Käse                      |
 |             | Kräuterquark/Tomatensuppe |
-** Zubereitung
+*** Zubereitung
 1. Den Reis mit etwas Salz im Wasser kochen.
 2. Die Zwiebel würfeln und den Knoblauch klein schneiden und in einer Pfanne mit etwas Öl glasig braten. Dabei die Chillischote zerkleinern.
 3. Die zerkleinerte Chillischote hinzugeben und auch kurz anbraten.
@@ -358,8 +359,8 @@ Github: https://github.com/m1cm1c/recipes
 8. Den Käse (etwas zerkleinert) hinzugeben.
 9. Leicht rühren, bis der Käse geschmolzen ist.
 10. Mit Kräuterquark oder Tomatensuppe servieren.
-* Nudelsalt
-** Zutaten
+** Nudelsalt
+*** Zutaten
 | *Menge* | *Zutat*             |
 |---------+---------------------|
 | 500 g   | Nudeln              |
@@ -371,7 +372,7 @@ Github: https://github.com/m1cm1c/recipes
 |         | Salz und Pfeffer    |
 | 1 Dose  | Karotten mit Erbsen |
 | 1 Dose  | Mais                |
-** Zubereitung
+*** Zubereitung
 1. Die Nudeln gut in gesalzenem Wasser kochen.
 2. Die sauren Gurken klein schneiden und in eine große Schüssel geben.
 3. Die Mayonnaise, den Essig, das Öl, und den Senf hinzugeben.
@@ -379,8 +380,8 @@ Github: https://github.com/m1cm1c/recipes
 5. Die Karotten und Erbsen (abgetropft, aber die Flüssigkeit auffangen) und den Mais (abgetropft) hinzugeben.
 6. Alles gut durchmischen. Dabei etwas von der aufgefangenen Flüssigkeit der Karotten und Erbsen hinzugeben, so dass die Soße leicht flüssig ist.
 7. Die Soße einziehen lassen (mindestens 20 Minuten).
-* Pilzsoße (für Spaghetti)
-** Zutaten
+** Pilzsoße (für Spaghetti)
+*** Zutaten
 | *Menge*          | *Zutat*            |
 |------------------+--------------------|
 |                  | Sonnenblumenöl     |
@@ -396,15 +397,15 @@ Github: https://github.com/m1cm1c/recipes
 |                  | Petersilie         |
 |                  | Thymian            |
 |                  | Pfeffer            |
-** Zubereitung
+*** Zubereitung
 1. Zwiebeln würfeln und im Sonnenblumenöl und in der Butter glasig braten.
 2. In Scheiben geschnittene Pilze hinzugeben und anbraten.
 3. Das Mehl auf die Pilze streuen und anschwitzen bis es braun ist.
 4. Mit der Milch ablöschen.
 5. Die Sahne hinzugeben und vermischen.
 6. Alle weiteren Zutaten hinzugeben.
-* Pizzabrötchen
-** Zutaten
+** Pizzabrötchen
+*** Zutaten
 | *Menge*     | *Zutat*                             |
 |-------------+-------------------------------------|
 | 2 Becher    | Schmand                             |
@@ -428,14 +429,14 @@ Github: https://github.com/m1cm1c/recipes
 | 2 Packungen | Aufbackbrötchen                     |
 | 2.5 Tuben   | Tomatenmark                         |
 |             | Mozarella (gerieben)                |
-** Zubereitung
+*** Zubereitung
 1. Die Zutaten bis einschließlich Emmentaler und Tilsitter in einer Schüssel vermischen.
 2. Die Bröchten durchschneiden und beide Seiten mit Tomatenmark beschmieren.
 3. Die Mischung auf die Brötchen schmieren.
 4. Die Pizzabrötchen mit Mozarella bestreuen.
 5. 20 Minuten (ausgehend von kaltem Backofen) bei 200 Grad Ober-Unterhitze backen.
-* Pizzasoße
-** Zutaten
+** Pizzasoße
+*** Zutaten
 | *Menge*       | *Zutat*         |
 |---------------+-----------------|
 | 0.5           | kleine Zwiebeln |
@@ -449,11 +450,11 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Teelöffel   | Rosmarin        |
 | 0.5 Teelöffel | Salz            |
 | 1 Teelöffel   | Pfeffer         |
-** Zubereitung
+*** Zubereitung
 1. Die Zwiebeln und den Knoblauch in einen Mixer geben und gut pyrieren.
 2. Die restlichen Zutaten in den Mixer geben und ebenfalls gut pyrieren.
-* Pizzateig
-** Zutaten
+** Pizzateig
+*** Zutaten
 | *Menge*       | *Zutat*                                        |
 |---------------+------------------------------------------------|
 | 125 ml        | Wasser (lauwarm)                               |
@@ -462,12 +463,12 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Prise       | Zucker                                         |
 | 1 Esslöffel   | Öl (Olivenöl oder Öl von getrockneten Tomaten) |
 | 250 g         | Mehl (Weizenmehl oder 50:50 Weizen:Dinkel)     |
-** Zubereitung
+*** Zubereitung
 1. Das Wasser, die Hefe, das Salz, den Zucker, und das Öl in eine Schüssel geben und vermischen.
 2. Das Mehl hinzugeben und alles vermischen.
 3. Die Schüssel abdecken und den Teig 40 Minuten lang gehen lassen.
-* Schupfnudelpfanne
-** Zutaten
+** Schupfnudelpfanne
+*** Zutaten
 | *Menge*               | *Zutat*                |
 |-----------------------+------------------------|
 | 2 Esslöffel           | Öl                     |
@@ -481,7 +482,7 @@ Github: https://github.com/m1cm1c/recipes
 |                       | Pfeffer                |
 | 190 g (1.5 Packungen) | Mozarella (abgetropft) |
 |                       | Basilikum              |
-** Zubereitung
+*** Zubereitung
 1. Die Schüpfnudeln im Öl einige Minuten lang anbraten.
 2. Die Tomaten hinzugeben und mit anbraten.
 3. Den Mozarella in Würfel schneiden (zur Vorbereitung).
@@ -490,8 +491,8 @@ Github: https://github.com/m1cm1c/recipes
 6. Mit Gemüsebrühenpulver und Pfeffer würzen.
 7. Den Mozarella hinzugeben.
 8. Den Basilikum schneiden und hinzugeben.
-* Suppe mit Grießnockerln
-** Zutaten
+** Suppe mit Grießnockerln
+*** Zutaten
 | *Menge* | *Zutat*            |
 |---------+--------------------|
 | 40 g    | Butter             |
@@ -500,15 +501,15 @@ Github: https://github.com/m1cm1c/recipes
 | TODO    | Salz               |
 | 1 l     | Wasser             |
 | 20 g    | Gemüsebrühenpulver |
-** Zubereitung
+*** Zubereitung
 1. Die Butter in einem Topf schmelzen, aber nicht zu heiß werden lassen.
 2. Den Vollkorngrieß und das Ei hinzugeben und verrühren.
 3. Mit Salz würzen und quellen lassen (ca. 10 Minuten).
 4. Das Wasser und das Gemüsebrühenpulver in einen anderen Topf geben und zum Kochen bringen.
 5. Mit einem Teelöffel immer Teig aus dem ersten Topf entnehmen, mit einem anderen Teelöffel zu einem Nockerl formen, und in den Topf mit der Gemüsebrühe geben.
 6. Die Suppe 15 Minuten lang kochen lassen.
-* Sushi
-** Zutaten
+** Sushi
+*** Zutaten
 | *Menge*      | *Zutat*                                           |
 |--------------+---------------------------------------------------|
 | 250 g        | Sushi-Reis                                        |
@@ -527,7 +528,7 @@ Github: https://github.com/m1cm1c/recipes
 | 150 g        | Frischkäse (z.B. Philadelphia Kräuter-Frischkäse) |
 | 30 g         | Meerrettich-Paste                                 |
 |              | Kikkomann-Soja-Soße                               |
-** Zubereitung
+*** Zubereitung
 1. Sushi-Reis gründlich waschen und zusammen mit dem Wasser in den Reiskocher geben; Sushi-Reis als Reis-Art auswählen und Reiskocher starten.
 2. Zur Herstellung der Reis-Würze Zucker, Reisessig, und Salz in einen Topf geben und erhitzen, aber nicht kochen lassen. Umrühren bis sich alles aufgelöst hat.
 3. Wenn der Reis fertig gekocht und noch heiß ist, nach und nach die Reis-Würze über den Reis geben, und den Reis immer wieder längs und quer mit dem Plastiklöffel, der zum Reiskocher gehört, durchstreifen und aufwühlen, damit die Reis-Würze gut verteilt wird.
@@ -544,8 +545,8 @@ Github: https://github.com/m1cm1c/recipes
 13. Die Bambus-Matte an beiden Enden hochgeben und die Sushi-Rolle nochmals leicht rollen lassen, um sie rund zu bekommen.
 14. Die Sushi-Rolle einige Minuten lang ruhen lassen, so dass sie sich festigen kann.
 15. Die Sushi-Rolle in ca. 1.5 cm breite Stücke schneiden.
-* Thai Curry
-** Zutaten
+** Thai Curry
+*** Zutaten
 | *Menge*              | *Zutat*            |
 |----------------------+--------------------|
 |                      | Olivenöl           |
@@ -571,7 +572,7 @@ Github: https://github.com/m1cm1c/recipes
 | 400 g                | Tofu               |
 |                      | Salz               |
 |                      | Reis               |
-** Zubereitung
+*** Zubereitung
 1. Die Zwiebel würfeln und in Olivenöl im Wok anbraten.
 2. Den Knoblauch und den Ingwer hinzufügen und mit anbraten.
 3. Die Erdnüssel und das rote Curry-Pulver hinzufügen und mit anbraten.
@@ -579,8 +580,8 @@ Github: https://github.com/m1cm1c/recipes
 5. Limettensaft, Sojasoße und Erdnussbutter untermischen.
 6. Die restlichen Zutaten bis auf den Reis hinzugeben.
 7. Alles 15 Minuten lang köcheln lassen.
-* Waffeln
-** Zutaten
+** Waffeln
+*** Zutaten
 | *Menge*     | *Zutat*       |
 |-------------+---------------|
 | 250 g       | Milch         |
@@ -591,7 +592,7 @@ Github: https://github.com/m1cm1c/recipes
 | 250 g       | Mehl          |
 | 1 Teelöffel | Backpulver    |
 | 3           | Eier          |
-** Zubereitung
+*** Zubereitung
 Wenn keine Mikrowell verfügbar ist:
 1. Die Milch und die Butter erhitzen, so dass die Butter schmilzt.
 2. Die Mischung aus Milch unt Butter in eine Schüssel geben.
