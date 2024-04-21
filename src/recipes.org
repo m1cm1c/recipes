@@ -9,14 +9,14 @@ Github: https://github.com/m1cm1c/recipes
 ** Sex on the Beach
 ** Turquoise Energy
 * Gerichte ohne Rezept
-** Rosmarinkartoffeln
-** Gemüsepfannkuchen
-** Linsen mit Spätzle und Wiener Würstchen
-** Spaghetti Carbonara
-** Linsensuppe mit Wiener Würstchen
-** Laugenburger
-** Pommes
 ** Balkansalat
+** Gemüsepfannkuchen
+** Laugenburger
+** Linsen mit Spätzle und Wiener Würstchen
+** Linsensuppe mit Wiener Würstchen
+** Pommes
+** Rosmarinkartoffeln
+** Spaghetti Carbonara
 * Gerichte
 ** Baked Beans
 *** Zutaten
