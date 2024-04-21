@@ -61,6 +61,13 @@ Github: https://github.com/m1cm1c/recipes
 ** Edelkirsch
 * Soft Drinks
 ** Limonade
+*** Zutaten
+| *Menge* | *Zutat*      |
+|---------+--------------|
+| 18 g    | Limettensaft |
+| 22 g    | Zitronensaft |
+| 40 g    | Zucker       |
+|         | Wasser       |
 * Gerichte ohne Rezept
 ** Balkansalat
 ** Gemüsepfannkuchen
