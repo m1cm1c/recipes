@@ -11,6 +11,15 @@ Github: https://github.com/m1cm1c/recipes
 |         | 43      |
 |         | Milch   |
 ** Blue Andy
+*** Zutaten
+| *Menge*   | *Zutat*                 |
+|-----------+-------------------------|
+| 80 g      | Wodka                   |
+| 100 g     | Wasser                  |
+| 80 g      | Apfelsaft               |
+| 10 g      | Limettensaft            |
+| 60 g      | Zucker                  |
+| 8 Tropfen | blaue Lebensmittelfarbe |
 ** Mojito
 *** Zutaten
 | *Menge* | *Zutat*        |
