@@ -24,7 +24,7 @@ Github: https://github.com/m1cm1c/recipes
 *** Zutaten
 | *Menge* | *Zutat*        |
 |---------+----------------|
-|         | weißer Rum     |
+| 70 g    | weißer Rum     |
 | 18 g    | Limettensaft   |
 | 22 g    | Zitronensaft   |
 | 35 g    | Zucker         |
