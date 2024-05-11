@@ -579,7 +579,7 @@ Github: https://github.com/m1cm1c/recipes
 | 100 g        | Zucker                                            |
 | 100 g        | Reisessig                                         |
 | 15 g         | Salz                                              |
-| 4            | Nori-Blätter (Algen)                              |
+| 5            | Nori-Blätter (Algen)                              |
 | 0.5          | Paprika                                           |
 | 1            | Karotte                                           |
 | 1            | Champignon                                        |
