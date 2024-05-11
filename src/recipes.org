@@ -578,13 +578,13 @@ Github: https://github.com/m1cm1c/recipes
 | 500 g        | Wasser                                            |
 | 100 g        | Zucker                                            |
 | 100 g        | Reisessig                                         |
-| 25 g         | Salz                                              |
+| 15 g         | Salz                                              |
 | 4            | Nori-Blätter (Algen)                              |
 | 0.5          | Paprika                                           |
 | 1            | Karotte                                           |
 | 1            | Champignon                                        |
 | 0.5          | Avocado                                           |
-| 0.5          | Salatgurke                                        |
+| 0.25         | Salatgurke                                        |
 | 1 große Zehe | Knoblauch                                         |
 | 2 cm         | Ingwer (optional)                                 |
 | 150 g        | Frischkäse (z.B. Philadelphia Kräuter-Frischkäse) |
