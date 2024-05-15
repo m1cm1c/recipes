@@ -428,7 +428,7 @@ Github: https://github.com/m1cm1c/recipes
 | 500 g   | Nudeln              |
 | 4       | saure Gurken        |
 | 5 EL    | Mayonnaise          |
-| 4 EL    | Essig               |
+| 4 EL    | Balsamico           |
 | 3 EL    | Sonnenblumenöl      |
 | 1.5 EL  | Senf (mittelscharf) |
 |         | Salz und Pfeffer    |
