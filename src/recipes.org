@@ -278,13 +278,13 @@ Github: https://github.com/m1cm1c/recipes
 *** Zutaten
 | *Menge*     | *Zutat*              |
 |-------------+----------------------|
-| 2           | Avocados             |
+| 1           | Avocado              |
 | 2 Esslöffel | Tomatenmark          |
 | 1 Teelöffel | Salz                 |
 | 1 Teelöffel | Pfeffer              |
-| 2 Esslöffel | Limettensaft         |
+| 3 Esslöffel | Limettensaft         |
 | 0.5         | kleine rote Zwiebeln |
-|             | Chilli               |
+| 1           | Chilli-Schote        |
 *** Zubereitung
 1. Alles zerkleinern und vermischen.
 ** Haferbrei mit Banane
