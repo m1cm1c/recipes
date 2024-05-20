@@ -578,8 +578,8 @@ Github: https://github.com/m1cm1c/recipes
 | 500 g        | Wasser                                            |
 | 100 g        | Zucker                                            |
 | 100 g        | Reisessig                                         |
-| 15 g         | Salz                                              |
-| 5            | Nori-Blätter (Algen)                              |
+| 17 g         | Salz                                              |
+| 7            | Nori-Blätter (Algen)                              |
 | 0.5          | Paprika                                           |
 | 1            | Karotte                                           |
 | 1            | Champignon                                        |
