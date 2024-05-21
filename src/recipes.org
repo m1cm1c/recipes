@@ -273,7 +273,7 @@ Github: https://github.com/m1cm1c/recipes
 *** Zubereitung
 1. Die Milch, den Zucker, den Vanillezucker, und das Salz in einen Topf geben und zum Kochen bringen.
 2. Den Weichweizengrieß langsam in den Topf geben und dabei kräftig mit einem Schneebesen rühren.
-3. Den Brei nochmals kurz aufkochen lassen.
+3. Den Brei nochmals kurz aufkochen lassen. Dann den Herd ausschalten und den Topf 5 Minuten lang bei geschlossenem Deckel stehen lassen.
 ** Guacamole
 *** Zutaten
 | *Menge*     | *Zutat*              |
