@@ -17,11 +17,16 @@ jobs:
     - name: Install Emacs
       run: sudo apt install emacs
 
+    # provides command `unbuffer`
+    - name: Install Expect Suite
+      run: sudo apt install expect-dev
+
     - name: Make FTP Username Available
       run: echo "${{ env.FTP_USERNAME }}" > ftp_username
 
     - name: Make FTP Password Available
       run: echo "${{ secrets.FTP_PASSWORD }}" > ftp_password
 
+    # command `unbuffer` is necessary because otherwise emacs will fail with error "emacs: standard input is not a tty"
     - name: Build and Deploy
-      run: make all
+      run: unbuffer -p make all
