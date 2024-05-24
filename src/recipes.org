@@ -529,6 +529,21 @@ Github: https://github.com/m1cm1c/recipes
 1. Das Wasser, die Hefe, das Salz, den Zucker, und das Öl in eine Schüssel geben und vermischen.
 2. Das Mehl hinzugeben und alles vermischen.
 3. Die Schüssel abdecken und den Teig 40 Minuten lang gehen lassen.
+** Quesadillas
+*** Zutaten
+| *Menge* | *Zutat*                  |
+|---------+--------------------------|
+|         | Paprika                  |
+|         | Mais                     |
+|         | Chilli                   |
+|         | Zwiebel                  |
+|         | Kidneybohnen             |
+|         | Gemüsebrühe              |
+|         | Pfeffer                  |
+|         | Käse                     |
+|         | Tomaten oder Tomatenmark |
+|         | Wraps                    |
+*** Zubereitung
 ** Schupfnudelpfanne
 *** Zutaten
 | *Menge*               | *Zutat*                |
