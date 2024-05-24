@@ -22,7 +22,7 @@ jobs:
       run: sudo apt install expect-dev
 
     - name: Make FTP Username Available
-      run: echo "${{ env.FTP_USERNAME }}" > ftp_username
+      run: echo "${{ vars.FTP_USERNAME }}" > ftp_username
 
     - name: Make FTP Password Available
       run: echo "${{ secrets.FTP_PASSWORD }}" > ftp_password
