@@ -246,6 +246,7 @@ Github: https://github.com/m1cm1c/recipes
 |                        3 | Karotten                     |
 |                        1 | große Zucchini               |
 | 1 sehr große Gefrierdose | gehackte Tomaten             |
+|                        1 | Chillischote (optional)      |
 |                          | getrocknete Sellergieblätter |
 |                          | Balsamico                    |
 |                          | Salz                         |
@@ -253,7 +254,7 @@ Github: https://github.com/m1cm1c/recipes
 |                          | Basilikum                    |
 |                          | Oregano                      |
 |                          | Thymian                      |
-|                        2 | Wiener Würstchen             |
+|                        4 | Wiener Würstchen             |
 *** Zubereitung
 1. Das Gemüse würfeln.
 2. Die Zwiebeln und den Knoblauch anbraten.
