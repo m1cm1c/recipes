@@ -35,6 +35,12 @@ Github: https://github.com/m1cm1c/recipes
 2. Rühren bis der Zucker größtenteils aufgelöst ist.
 3. Den brauenne Zucker hinzugeben.
 4. Mit Strohhalm servieren.
+** Sekt mit Holunderblütenlikör
+*** Zutaten
+| *Menge* | *Zutat*             |
+|---------+---------------------|
+|         | Holunderblütenlikör |
+|         | Sekt                |
 ** Sex on the Beach
 *** Zutaten
 | *Menge* | *Zutat*         |
@@ -59,6 +65,7 @@ Github: https://github.com/m1cm1c/recipes
 ** Amaretto
 ** Aperitivo
 ** Edelkirsch
+** Holunderblütenlikör
 * Soft Drinks
 ** Limonade
 *** Zutaten
@@ -685,3 +692,58 @@ In jedem Fall weiter:
 1. Das Mehl, das Backpulver, und die Eier hinzufügen.
 2. Alles gut durchmischen.
 3. Die Waffeln in einem gefetteten Waffeleisen zubereiten.
+* Saisonal
+** Holunderblütenlikör
+*** Zutaten
+| *Menge*   | *Zutat*        |
+|-----------+----------------|
+| 25 Dolden | Holunderblüten |
+| 1 kg      | Wasser         |
+| 1 kg      | Wodka          |
+| 0.5 kg    | Zucker         |
+| 40 g      | Zitronensäure  |
+*** Zubereitung
+1. Die Holunderblütendolden ausschütteln, die Stiele abschneiden, und in einen großen Topf geben (größter Topf oder Auflaufform).
+2. Das Wasser hinzugeben und umrühen.
+3. Nach Insekten absuchen.
+4. Den Wodka hinzugeben.
+5. Den Zucker hinzugeben.
+6. Die Zitronensäure hinzugeben (40 g Zitronensäure entspricht 880 g Zitronensaft).
+7. Umrühren bis der Zucker sich aufgelöst hat.
+8. 24 h durchziehen lassen.
+9. Leicht aufkochen.
+10. Den Großteil der Holunderblüten mit einer Gabel entfernen.
+11. Flaschen zum Abfüllen mit warmem Wasser vorbereiten.
+12. Genug Likör für eine Flasche in einen kleinen Topf geben und dabei mit einem Sieb die restlichen Blüten abfangen.
+13. Den Likör im kleinen Topf leicht aufkochen lassen und mit einem Trichter in die Flasche füllen.
+14. Den Deckel auf die Flasche legen aber nicht ganz verschließen.
+15. Nach einer Minute den Deckel fest verschließen.
+*** Varianten
+- A :: nur 20 Dolden; mit 1 kg Zucker und leicht erhitzen (aber nicht aufkochen) um den Zucker aufzulösen
+- B :: wie beschrieben
+- C :: 20 g Zitronensäure und 440 g Zitronensaft
+** Holunderblütensirup
+*** Zutaten
+| *Menge*   | *Zutat*        |
+|-----------+----------------|
+| 25 Dolden | Holunderblüten |
+| 2 kg      | Wasser         |
+| 2 kg      | Zucker         |
+| 40 g      | Zitronensäure  |
+*** Zubereitung
+1. Die Holunderblütendolden ausschütteln, die Stiele abschneiden, und in einen großen Topf geben (größter Topf).
+2. Das Wasser hinzugeben und umrühen.
+3. Nach Insekten absuchen.
+4. Den Zucker hinzugeben.
+5. Die Zitronensäure hinzugeben (40 g Zitronensäure entspricht 880 g Zitronensaft).
+6. Kurz aufkochen und umrühren bis der Zucker sich aufgelöst hat.
+7. 24 h durchziehen lassen.
+8. Aufkochen.
+9. Den Großteil der Holunderblüten mit einer Gabel entfernen.
+10. Flaschen zum Abfüllen mit warmem Wasser vorbereiten.
+11. Genug Sirup für eine Flasche in einen kleinen Topf geben und dabei mit einem Sieb die restlichen Blüten abfangen.
+12. Den Sirup im kleinen Topf aufkochen lassen und mit einem Trichter in die Flasche füllen.
+13. Den Deckel auf die Flasche legen aber nicht ganz verschließen.
+14. Nach einer Minute den Deckel fest verschließen.
+*** Varianten
+- 2024 und davor nur mit 20 Dolden zubereitet
