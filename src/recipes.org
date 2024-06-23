@@ -522,7 +522,7 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Teelöffel   | Pfeffer         |
 *** Zubereitung
 1. Die Zwiebeln und den Knoblauch in einen Mixer geben und gut pyrieren.
-2. Die restlichen Zutaten in den Mixer geben und ebenfalls gut pyrieren.
+2. Die restlichen Zutaten in den Mixer geben und ebenfalls gut pürieren.
 ** Pizzateig
 *** Zutaten
 | *Menge*       | *Zutat*                                        |
