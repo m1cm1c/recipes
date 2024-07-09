@@ -372,7 +372,7 @@ Github: https://github.com/m1cm1c/recipes
 | 200 ml   | Sahne                     |
 | 1/4 Bund | Petersilie, gehackt       |
 |          | Salz und Pfeffer          |
-| 100 g    | Emmentaler oder Maasdamer |
+| 150 g    | Emmentaler oder Maasdamer |
 | 0.5 kg   | Spätzle                   |
 *** Zubereitung
 1. Die Zwiebeln würfeln und in einer Pfanne mit etwas Öl glasig braten.
