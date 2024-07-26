@@ -269,6 +269,31 @@ Github: https://github.com/m1cm1c/recipes
 4. Die Zucchini mitanbraten.
 5. Mit den gehackten Tomaten ablöschen.
 6. Die weiteren Zutaten hinzugen und kurz köcheln lassen.
+** Gemüsepfanne
+*** Zutaten
+|   *Menge* | *Zutat*                       |
+|-----------+-------------------------------|
+|           | Olivenöl                      |
+|         1 | rote Zwiebel mit grünem Stiel |
+|         1 | Paprika                       |
+|         1 | kleine Karotte                |
+|         1 | mittelgroße gelbe Zucchini    |
+|         3 | große Champignons             |
+|         1 | große Ochsenherz-Tomate       |
+|           | Schnittlauch                  |
+| 4 Blätter | Frühlingsziebeln              |
+|         1 | Stange+Blatt Krausepetersilie |
+|    1 Zehe | Knoblauch                     |
+|           | Gemüsebrühenpulver            |
+|           | Pfeffer                       |
+|       0.5 | Becher Sahne                  |
+|           | Paprikapulver                 |
+*** Zubereitung
+1. Das Gemüse würfeln.
+2. Die Zwiebel (ohne Stiel) anbraten.
+3. Paprika und Karotte mit in die Pfanne geben und anbraten.
+4. Zucchini mit in die Pfanne geben und anbraten.
+5. Alle weiteren Zutaten in die Pfanne geben und kurz köcheln lassen.
 ** Grießbrei
 *** Zutaten
 | *Menge*     | *Zutat*       |
