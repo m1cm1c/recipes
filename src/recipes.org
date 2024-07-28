@@ -277,7 +277,7 @@ Github: https://github.com/m1cm1c/recipes
 |         1 | rote Zwiebel mit grünem Stiel |
 |         1 | Paprika                       |
 |         1 | kleine Karotte                |
-| 1 Hand voll | Bohnen                      |
+| 1 Hand voll | grüne Bohnen                      |
 |         1 | mittelgroße gelbe Zucchini    |
 |         3 | große Champignons             |
 |         1 | große Ochsenherz-Tomate       |
@@ -295,7 +295,7 @@ Github: https://github.com/m1cm1c/recipes
 3. Paprika und Karotte mit in die Pfanne geben und anbraten.
 4. Die Bohnen in ungesalzenem Wasser kochen. 
 5. Zucchini mit in die Pfanne geben und anbraten.
-6. Alle weiteren Zutaten in die Pfanne geben und kurz köcheln lassen.
+6. Alle weiteren Zutaten (auch die Bohnen) in die Pfanne geben und kurz köcheln lassen.
 ** Grießbrei
 *** Zutaten
 | *Menge*     | *Zutat*       |
