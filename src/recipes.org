@@ -477,6 +477,24 @@ Github: https://github.com/m1cm1c/recipes
 5. Die Karotten und Erbsen (abgetropft, aber die Flüssigkeit auffangen) und den Mais (abgetropft) hinzugeben.
 6. Alles gut durchmischen. Dabei etwas von der aufgefangenen Flüssigkeit der Karotten und Erbsen hinzugeben, so dass die Soße leicht flüssig ist.
 7. Die Soße einziehen lassen (mindestens 20 Minuten).
+** Ofenpasta
+*** Zutaten
+| *Menge*     | *Zutat*                                    |
+|-------------+--------------------------------------------|
+| 320 g       | Spaghetti                                  |
+| 200 g       | Kirschtomaten                              |
+| 1           | kleine Zucchini                            |
+| 1 Zehe      | Knoblauch                                  |
+| 2 Esslöffel | Tomatenmark                                |
+| 17 g        | Gemüsebrühenpulver                         |
+| 2 Teelöffel | Pfeffer                                    |
+| 500 g       | Wasser                                     |
+| 1 Packung   | Bresso Frischkäse Kirschtomaten und Chilli |
+*** Zubereitung
+1. Die Spaghetti in der Mitter zerbrechen und ungekocht in die große Hälfte der Auflaufform legen.
+2. Das Gemüse kleinschneiden (Zucchini in Viertels-Scheiben)
+3. Die Zutaten in der beschriebenen Reihenfolge in die Auflaufform geben.
+4. 35 Minuten lang bei 200 Grad Ober-/Unterhitze backen.
 ** Pilzsoße (für Spaghetti)
 *** Zutaten
 | *Menge*          | *Zutat*            |
