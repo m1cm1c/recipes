@@ -491,7 +491,7 @@ Github: https://github.com/m1cm1c/recipes
 | 2 Esslöffel | Tomatenmark                                |
 | 17 g        | Gemüsebrühenpulver                         |
 | 2 Teelöffel | Pfeffer                                    |
-| 500 g       | Wasser                                     |
+| 350 g       | Wasser                                     |
 | 1 Packung   | Bresso Frischkäse Kirschtomaten und Chilli |
 *** Zubereitung
 1. Die Spaghetti in der Mitter zerbrechen und ungekocht in die große Hälfte der Auflaufform legen.
