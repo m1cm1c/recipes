@@ -482,7 +482,7 @@ Github: https://github.com/m1cm1c/recipes
 | *Menge*     | *Zutat*                                    |
 |-------------+--------------------------------------------|
 | 320 g       | Spaghetti                                  |
-| 200 g       | Kirschtomaten                              |
+| 250 g       | Kirschtomaten                              |
 | 1           | kleine Zucchini                            |
 | 1 Zehe      | Knoblauch                                  |
 | 2 Esslöffel | Tomatenmark                                |
