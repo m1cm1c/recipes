@@ -485,6 +485,9 @@ Github: https://github.com/m1cm1c/recipes
 | 250 g       | Kirschtomaten                              |
 | 1           | kleine Zucchini                            |
 | 1 Zehe      | Knoblauch                                  |
+| 2 | kleine Zwiebeln |
+| 1 | Chilli |
+| 5 Stangen | Frühlingszwiebeln |
 | 2 Esslöffel | Tomatenmark                                |
 | 17 g        | Gemüsebrühenpulver                         |
 | 2 Teelöffel | Pfeffer                                    |
