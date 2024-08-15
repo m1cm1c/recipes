@@ -644,7 +644,7 @@ Github: https://github.com/m1cm1c/recipes
 |             | Pfeffer               |
 *** Zubereitung
 1. Zwiebel, Knoblauch, und Chilli klein schneiden.
-2. Spaghetti kochen (aber nicht ganz aldente werden lassen).
+2. Spaghetti in Salzwasser kochen (aber nicht ganz aldente werden lassen).
 3. Olivenöl in eine Pfanne geben und Zwiebel, Knoblauch, und Chilli anbraten.
 4. Die Petersilie in die Pfanne geben.
 5. Die Spaghetti in die Pfanne geben, zusammen mit etwas Nudelwasser.
