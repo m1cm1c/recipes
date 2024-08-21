@@ -491,7 +491,7 @@ Github: https://github.com/m1cm1c/recipes
 | 2 Esslöffel | Tomatenmark                                |
 | 17 g        | Gemüsebrühenpulver                         |
 | 2 Teelöffel | Pfeffer                                    |
-| 350 g       | Wasser                                     |
+| 250 g       | Wasser                                     |
 | 1 Packung   | Bresso Frischkäse Kirschtomaten und Chilli |
 *** Zubereitung
 1. Die Spaghetti in der Mitter zerbrechen und ungekocht in die große Hälfte der Auflaufform legen.
@@ -500,6 +500,7 @@ Github: https://github.com/m1cm1c/recipes
 4. 30 Minuten lang bei 200 Grad Ober-/Unterhitze backen.
 5. Umrühren.
 6. Nochmal 10 Minuten lang backen.
+7. Umrühren und noch 2 mal jeweils 5 Minuten lang backen und dabei umrühren, falls noch Flüssigkeit vorhanden ist.
 *** Alternativen
 - Statt "Bresso Frischkäse Kirschtomaten und Chilli" kann auch 1 Becker Crème Fraîche verwendet werden.
 ** Pilzsoße (für Spaghetti)
