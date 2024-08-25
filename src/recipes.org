@@ -606,6 +606,50 @@ Github: https://github.com/m1cm1c/recipes
 |         | Tomaten oder Tomatenmark |
 |         | Wraps                    |
 *** Zubereitung
+** Schaschlik-Pfanne
+*** Zutaten
+| *Menge*           | *Zutat*               |
+|-------------------+-----------------------|
+| 2+1 Esslöffel     | Sonnenblumenöl        |
+| 2                 | große Zwiebeln        |
+| 3 Zehen           | Knoblauch             |
+| 3                 | Paprika               |
+| 2                 | Chilli                |
+| 2 Packungen       | Dönerfleisch          |
+| 1 Packung (200 g) | Tofu oder Räuchertofu |
+| 3 Esslöffel       | Tomatenmark           |
+| 3 Esslöffel       | Paprikapulver         |
+| 1 Teelöffel       | Zucker                |
+| 2 Teelöffel       | Currypulver           |
+| 100 ml            | Rotwein               |
+| 400 g             | Tomaten               |
+| 2 Esslöffel       | Ketchup               |
+| 1 Teelöffel       | Senf                  |
+| 1 Teelöffel       | Sojasoße              |
+| 13 g              | Gemüsebrühenpulver    |
+| 400 ml            | Wasser                |
+|                   | Pfeffer               |
+|                   | Petersilie            |
+| 2 Tassen          | Reis                  |
+*** Zubereitung
+1. Die Zwiebeln, den Paprika, und den Knoblauch würfeln und zur Seite legen. Die Chillis schneiden.
+2. Den Tofu würfeln und das Dönerfleisch etwas kleiner schneiden.
+3. Den Reis waschen und den Reiskocher einschalten.
+4. Die Tomaten in große Stücke schneiden.
+5. Den Tofu mit dem Öl in der großen Pfanne anbraten.
+6. Das Dönerfleisch dazugeben und auch mit anbraten.
+7. Wenn das Tofu und das Dönerfleisch goldbraun sind, aus der Pfanne nehmen und auf einen Teller geben.
+8. Wieder Öl in die Pfanne geben und die Zwiebeln anbraten.
+9. Paprika, Knoblauch, und Chilli mit hinzugeben und auch anbraten.
+10. Das Tofu und das Dönerfleisch wieder in die Pfanne tun.
+11. Das Tomatenmark hinzugeben und auch anbraten.
+12. Das Paprikapulver, den Zucker, und das Currypulver hinzugeben und kurz mit anbraten.
+13. Mit Rotwein ablöschen.
+14. Die gestückelten Tomaten hinzugeben.
+15. Ketchup, Senf, Sojasoße, Gemüsebrühenpulver, und Wasser hinzugeben.
+16. Mit Pfeffer würzen.
+17. Kurz köcheln lassen.
+18. Mit Reis servieren und mit Petersilie garnieren.
 ** Schupfnudelpfanne
 *** Zutaten
 | *Menge*               | *Zutat*                |
