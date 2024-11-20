@@ -222,7 +222,7 @@ Github: https://github.com/m1cm1c/recipes
 *** Zutaten
 | *Menge*     | *Zutat*                          |
 |-------------+----------------------------------|
-| 3 Esslöffel | Öl                               |
+| 3 Esslöffel | Sonnenblumenöl                   |
 | 2           | Zwiebeln                         |
 | 2 Zehen     | Knoblauch                        |
 | 1           | Chillischote                     |
@@ -342,7 +342,7 @@ Github: https://github.com/m1cm1c/recipes
 |-------------+------------------|
 |             | Reis             |
 | 12          | Eier             |
-|             | Öl               |
+|             | Sonnenblumenöl   |
 | 2           | große Zwiebeln   |
 | 3 Zehen     | Knoblauch        |
 | 2           | Chillischoten    |
@@ -655,7 +655,7 @@ Github: https://github.com/m1cm1c/recipes
 *** Zutaten
 | *Menge*               | *Zutat*                |
 |-----------------------+------------------------|
-| 2 Esslöffel           | Öl                     |
+| 2 Esslöffel           | Sonnenblumenöl         |
 | 500 g                 | Schupfnudeln           |
 | 650 g                 | Cocktailtomaten        |
 | 2 Zehen               | Knoblauch              |
