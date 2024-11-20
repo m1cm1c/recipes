@@ -394,7 +394,7 @@ Github: https://github.com/m1cm1c/recipes
 *** Zutaten
 | *Menge*  | *Zutat*                   |
 |----------+---------------------------|
-|          | Öl                        |
+|          | Sonnenblumenöl            |
 | 2        | Zwiebeln                  |
 | 200 ml   | Sahne                     |
 | 1/4 Bund | Petersilie, gehackt       |
@@ -406,11 +406,12 @@ Github: https://github.com/m1cm1c/recipes
 2. Mit Sahne ablöschen.
 3. Petersilie hinzugeben.
 4. Mit Salz und Pfeffer würzen, so dass die Soße nach kurzem Aufkochen kräftig schmeckt.
-5. Den Käse (etwas zerkleinert) hinzugeben.
+5. 2/3 des Käses (etwas zerkleinert) hinzugeben. Den Rest klein schneiden ein bei Seite legen.
 6. Die Spätzle hinzugeben und alles durchmischen, bis es gleichmäßig ist.
 7. Eine Auflaufform fetten.
 8. Die Mischung in die Auflaufform geben und glatt streichen.
-9. Bei 200 °C (Ober- und Unterhitze) 20 Minuten lang backen.
+9. Den zur Seite gelegten Käse drüber streuen.
+10. Bei 200 °C (Ober- und Unterhitze) 20 Minuten lang backen.
 ** Lauchgemüse mit Fadennudeln
 *** Zutaten
 | *Menge*     | *Zutat*         |
