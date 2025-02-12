@@ -565,7 +565,7 @@ Github: https://github.com/m1cm1c/recipes
 | 5           | getrocknete Tomaten                 |
 | 4           | Oliven                              |
 | 1 Packung   | vegetarischer Wurst-Aufschnitt      |
-| 3 Teelöffel | Gemüsebrühe                         |
+| 3 Teelöffel | Gemüsebrühenpulver                  |
 | 1 Teelöffel | Pfeffer                             |
 | 2           | Chillis                             |
 | 1 Teelöffel | Bird's Eye                          |
