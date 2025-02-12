@@ -643,14 +643,14 @@ Github: https://github.com/m1cm1c/recipes
 | 3 Esslöffel       | Tomatenmark           |
 | 3 Esslöffel       | Paprikapulver         |
 | 1 Teelöffel       | Zucker                |
-| 2 Teelöffel       | Currypulver           |
-| 100 ml            | Rotwein               |
+| 2 Esslöffel       | Currypulver           |
+| 200 ml            | Rotwein               |
 | 400 g             | Tomaten               |
+| 300 ml            | Wasser                |
 | 2 Esslöffel       | Ketchup               |
 | 1 Teelöffel       | Senf                  |
 | 1 Teelöffel       | Sojasoße              |
 | 13 g              | Gemüsebrühenpulver    |
-| 400 ml            | Wasser                |
 |                   | Pfeffer               |
 |                   | Petersilie            |
 | 2 Tassen          | Reis                  |
@@ -669,7 +669,7 @@ Github: https://github.com/m1cm1c/recipes
 12. Das Paprikapulver, den Zucker, und das Currypulver hinzugeben und kurz mit anbraten.
 13. Mit Rotwein ablöschen.
 14. Die gestückelten Tomaten hinzugeben.
-15. Ketchup, Senf, Sojasoße, Gemüsebrühenpulver, und Wasser hinzugeben.
+15. Wasser, Ketchup, Senf, Sojasoße, und Gemüsebrühenpulver hinzugeben.
 16. Mit Pfeffer würzen.
 17. Kurz köcheln lassen.
 18. Mit Reis servieren und mit Petersilie garnieren.
