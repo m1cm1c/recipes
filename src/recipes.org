@@ -243,6 +243,24 @@ Github: https://github.com/m1cm1c/recipes
 6. Das Wasser hinzugeben und die Mischung rühren bis eine geschmeidige Soße entsteht.
 7. Den Zitronensaft, das Sambal Olek, den Cayennenpfeffer, die Sojasoße, und den Zucker hinzugeben.
 8. Alles vermischen und kurz aufkochen lassen.
+** Gegrillte Aubergine
+*** Zutaten
+| *Menge*     | *Zutat*               |
+|-------------+-----------------------|
+| 1           | mittelgroße Aubergine |
+| 2 Zehen     | Knoblauch             |
+| 4           | Chillischoten         |
+| 3 Teelöffel | Limettensaft          |
+| 6 Esslöffel | Olivenöl              |
+| 1 Teelöffel | Petersilie            |
+|             | Salz                  |
+|             | Pfeffer               |
+*** Zubereitung
+1. Die Aubergine in ca. 8 mm dicke Scheiben schneiden.
+   - Kann der Länge nach oder Breite nach erfolgen.
+2. Die restlichen Zutaten zerkleinern, auf einen flachen Teller geben, und vermischen.
+3. Die Auberginenscheiben in der Flüssigkeit marinieren.
+4. Die marinierten Auberginenscheiben bei sehr hoher Temperatur in einer Pfanne anbraten.
 ** Gemüsebolognese
 *** Zutaten
 |                  *Menge* | *Zutat*                      |
