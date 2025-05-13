@@ -384,6 +384,39 @@ Github: https://github.com/m1cm1c/recipes
 10. Salz, Pfeffer, Zucker, Paprikapulver, und Oregano hinzugeben.
 11. Alles 10 Minuten lang köcheln lassen. Dabei ab und zu langsam umrühren.
 12. Die Eier in Tomatensoße zusammen mit Reis servieren.
+** Kartoffel-Brokkoli-Auflauf
+*** Zutaten
+| *Menge*     | *Zutat*                           |
+|-------------+-----------------------------------|
+| 800 g       | Kartoffeln                        |
+| 440 g       | Brokkoli-Röschen oder Tk-Brokkoli |
+| 1 Esslöffel | Sonnenblumenöl                    |
+| 1 Esslöffel | Butter                            |
+| 1           | mittelgroße Zwiebel               |
+| 2 Zehen     | Knoblauch                         |
+| 100 ml      | Milch                             |
+| 200 ml      | Sahne                             |
+| 3 Teelöffel | Gemüsebrühenpulver                |
+| 2 Teelöffel | Senf                              |
+| 2 Esslöffel | Zitronensaft                      |
+|             | Muskatnuss                        |
+|             | Pfeffer                           |
+|             | Oregano                           |
+| 200 g       | Gouda (jung)                      |
+*** Zubereitung
+1. Die Kartoffeln waschen.
+2. Die Kartoffeln in 2 cm große Würfel schneiden.
+3. Die Kartoffel-Würfel im größten Topf in mit 1 Teelöffel Salz gesalzenem Wasser kochen (10 Minuten Kochzeit ab Siede-Beginn bis der Brokkoli hinzukommt).
+4. Die Ziebel klein würfeln und den Knoblauch zerkleinern.
+5. Den Brokkoli mit in den Topf geben und für weitere 5 Minuten köcheln lassen.
+6. Das Sonnenblumenöl und die Sahne in einen kleinen Topf geben. Die Ziebel und den Knoblauch darin dünsten.
+7. Den Inhalt des kleinen Topfes mit der Milch und der Sahne ablöschen.
+8. Alle weiteren Zutaten bis auf den Gouda in den kleinen Topf geben und kurz aufkochen lassen.
+9. Backofen vorheizen (180 °C; Umluft).
+10. Die Kartoffeln und den Brokkoli absieben und in eine große Auflaufform geben.
+11. Die Soße über den Kartoffeln und dem Brokkoli verteilen.
+12. Den Gouda geschnitten in lange Streifen über den Inhalt der Auflaufform legen.
+13. 25 Minuten lang backen.
 ** Kartoffelsalat
 *** Zutaten
 | *Menge*        | *Zutat*            |
