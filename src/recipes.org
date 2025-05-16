@@ -140,7 +140,8 @@ Github: https://github.com/m1cm1c/recipes
 |         | Bohnenkraut                             |
 |         | Pfeffer                                 |
 *** Zubereitung
-1. Die grünen Bohnen kurz in gesalzenem Wasser kochen und dann absieben.
+1. Die grünen Bohnen kurz in gesalzenem Wasser aufkochen lassen, 10 Minuten lang köcheln lassen, und dann absieben.
+   - 10 Minuten Kochzeit sind wichtig um das in grünen Bohnen enthaltene Gift zu neutralisieren.
 2. In einem Topf die Butter schmelzen lassen, dann das Mehl hinzugeben und kurz anschwitzen lassen (nicht braun werden lassen).
 3. Etwas Wasser und die Milch hinzugeben und kräftig mit einem Schneebesen umrühren, um Klumpen zu vermeiden.
 4. Das Gemüsebrühenpulver hinzugeben und abschmecken.
