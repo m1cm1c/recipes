@@ -190,7 +190,8 @@ Github: https://github.com/m1cm1c/recipes
 | 150 g       | Naturjoghurt |
 | 3 Esslöffel | Mayonnaise   |
 | 2 Zehen     | Knoblauch    |
-| 30 g        | Zitronensaft |
+| 25 g        | Zitronensaft |
+| 2           | Chillischoten |
 | 2 Teelöffel | Dill         |
 |             | Petersilie   |
 | 1 Esslöffel | Olivenöl     |
