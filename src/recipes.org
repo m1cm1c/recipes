@@ -254,6 +254,7 @@ Github: https://github.com/m1cm1c/recipes
 | 6 g           | Reisessig  |
 | 1 Zehe        | Knoblauch  |
 | 15 g          | Senf       |
+| 1             | Chillischote |
 | 0.5 Teelöffel | Salz       |
 |               | Dill       |
 |               | Pfeffer    |
