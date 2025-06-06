@@ -245,6 +245,26 @@ Github: https://github.com/m1cm1c/recipes
 6. Das Wasser hinzugeben und die Mischung rühren bis eine geschmeidige Soße entsteht.
 7. Den Zitronensaft, das Sambal Olek, den Cayennenpfeffer, die Sojasoße, und den Zucker hinzugeben.
 8. Alles vermischen und kurz aufkochen lassen.
+** Gefüllte Eier
+*** Zutaten
+| *Menge*       | *Zutat*    |
+|---------------+------------|
+| 6             | Eier       |
+| 60 g          | Mayonnaise |
+| 6 g           | Reisessig  |
+| 1 Zehe        | Knoblauch  |
+| 15 g          | Senf       |
+| 0.5 Teelöffel | Salz       |
+|               | Dill       |
+|               | Pfeffer    |
+*** Zubereitung
+1. Die Eier kochen und schälen.
+2. Die Eier der Länge nach halbieren.
+3. Das Eigelb herausnehmen und in eine Schüssel geben.
+4. Die anderen Zutaten zerkleinern, auch in die Schüssel geben, und alles vermischen.
+   - Das Eigelb am besten mit einer Gabel zerdrücken.
+5. Das gewürzte Eigelb zurück ins Eiweiß geben.
+6. Die gefüllten Eier zusammen mit Brot servieren.
 ** Gegrillte Aubergine
 *** Zutaten
 | *Menge*     | *Zutat*               |
