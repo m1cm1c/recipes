@@ -412,6 +412,7 @@ Github: https://github.com/m1cm1c/recipes
 | *Menge*     | *Zutat*                           |
 |-------------+-----------------------------------|
 | 800 g       | Kartoffeln                        |
+| 1 Teelöffel | Salz |
 | 440 g       | Brokkoli-Röschen oder Tk-Brokkoli |
 | 1 Esslöffel | Sonnenblumenöl                    |
 | 1 Esslöffel | Butter                            |
