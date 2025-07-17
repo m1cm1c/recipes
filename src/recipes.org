@@ -52,6 +52,19 @@ Github: https://github.com/m1cm1c/recipes
 |         | Eiswürfel       |
 |         | Orangensaft     |
 |         | Minze           |
+** Summer Jam Improved
+*** Zutaten
+| *Menge* | *Zutat*          |
+|---------+------------------|
+|         | Likör 43         |
+|         | Cranberry-Nektar |
+|         | Orangensaft      |
+|         | Ananassaft       |
+|         | Zitronensaft     |
+|         | Marillenlikör    |
+|         | Andalö           |
+|         | Vodka            |
+|         | Eiswürfel        |
 ** Turquoise Energy
 *** Zutaten
 | *Menge*   | *Zutat*                 |
