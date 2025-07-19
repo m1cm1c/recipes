@@ -43,15 +43,15 @@ Github: https://github.com/m1cm1c/recipes
 |         | Sekt                |
 ** Sex on the Beach
 *** Zutaten
-| *Menge* | *Zutat*         |
-|---------+-----------------|
-| 60 g    | Wodka           |
-| 30 g    | Marillenlikör   |
-| 15 g    | Grenadine       |
+| *Menge* | *Zutat*          |
+|---------+------------------|
+| 60 g    | Wodka            |
+| 30 g    | Marillenlikör    |
+| 15 g    | Grenadine        |
 | 90 g    | Cranberry-Nektar |
-|         | Eiswürfel       |
-|         | Orangensaft     |
-|         | Minze           |
+|         | Eiswürfel        |
+|         | Orangensaft      |
+|         | Minze            |
 ** Summer Jam Improved
 *** Zutaten
 | *Menge* | *Zutat*          |
@@ -164,9 +164,9 @@ Github: https://github.com/m1cm1c/recipes
 8. Mit gekochten Kartoffeln servieren.
 ** Currygemüse
 *** Zutaten
-| *Menge* | *Zutat*             |
-|---------+---------------------|
-|         |                     |
+| *Menge* | *Zutat* |
+|---------+---------|
+|         |         |
 *** Zubereitung
 1. 
 ** Currywurst
@@ -198,36 +198,36 @@ Github: https://github.com/m1cm1c/recipes
 9. Die Bratwürste auf zwei Teller verteilen, mit der Soße übergießen, und zusammen mit den Brötchen servieren.
 ** Dönersoße
 *** Zutaten
-| *Menge*     | *Zutat*      |
-|-------------+--------------|
-| 150 g       | Naturjoghurt |
-| 3 Esslöffel | Mayonnaise   |
-| 2 Zehen     | Knoblauch    |
-| 25 g        | Zitronensaft |
+| *Menge*     | *Zutat*       |
+|-------------+---------------|
+| 150 g       | Naturjoghurt  |
+| 3 Esslöffel | Mayonnaise    |
+| 2 Zehen     | Knoblauch     |
+| 25 g        | Zitronensaft  |
 | 2           | Chillischoten |
-| 2 Teelöffel | Dill         |
-|             | Petersilie   |
-| 1 Esslöffel | Olivenöl     |
-|             | Salz         |
-|             | Pfeffer      |
+| 2 Teelöffel | Dill          |
+|             | Petersilie    |
+| 1 Esslöffel | Olivenöl      |
+|             | Salz          |
+|             | Pfeffer       |
 *** Zubereitung
 1. Alles kleinschneiden und vermischen.
 ** Eiersalat
 *** Zutaten
-| *Menge*        | *Zutat*                                 |
-|----------------+-----------------------------------------|
-| 12             | Eier                                    |
-| 6              | kleine saure Gurken                     |
-| 2 Esslöffel    | Senf                                    |
-| 5 Esslöffel    | Mayonnaise                              |
-| 3 Esslöffel    | Joghurt                                 |
-| 3 Esslöffel    | Essiggurken-Flüssigkeit mit Senfkörnern |
-| 1 Esslöffel    | Balsamico                               |
-| 0.5 Teelöffel  | Salz                                    |
-| 0.5 Teelöffel  | Pfeffer                                 |
-| 1              | Chillischote                            |
-|                | Petersilie                              |
-|                | Schnittlauch                            |
+| *Menge*       | *Zutat*                                 |
+|---------------+-----------------------------------------|
+| 12            | Eier                                    |
+| 6             | kleine saure Gurken                     |
+| 2 Esslöffel   | Senf                                    |
+| 5 Esslöffel   | Mayonnaise                              |
+| 3 Esslöffel   | Joghurt                                 |
+| 3 Esslöffel   | Essiggurken-Flüssigkeit mit Senfkörnern |
+| 1 Esslöffel   | Balsamico                               |
+| 0.5 Teelöffel | Salz                                    |
+| 0.5 Teelöffel | Pfeffer                                 |
+| 1             | Chillischote                            |
+|               | Petersilie                              |
+|               | Schnittlauch                            |
 *** Zubereitung
 1. Die Eier 10 Minuten lang kochen.
 2. Die sauren Gurken klein schneiden.
@@ -260,17 +260,17 @@ Github: https://github.com/m1cm1c/recipes
 8. Alles vermischen und kurz aufkochen lassen.
 ** Gefüllte Eier
 *** Zutaten
-| *Menge*       | *Zutat*    |
-|---------------+------------|
-| 6             | Eier       |
-| 60 g          | Mayonnaise |
-| 6 g           | Reisessig  |
-| 1 Zehe        | Knoblauch  |
-| 15 g          | Senf       |
+| *Menge*       | *Zutat*      |
+|---------------+--------------|
+| 6             | Eier         |
+| 60 g          | Mayonnaise   |
+| 6 g           | Reisessig    |
+| 1 Zehe        | Knoblauch    |
+| 15 g          | Senf         |
 | 1             | Chillischote |
-| 0.5 Teelöffel | Salz       |
-|               | Dill       |
-|               | Pfeffer    |
+| 0.5 Teelöffel | Salz         |
+|               | Dill         |
+|               | Pfeffer      |
 *** Zubereitung
 1. Die Eier kochen und schälen.
 2. Die Eier der Länge nach halbieren.
@@ -325,24 +325,24 @@ Github: https://github.com/m1cm1c/recipes
 6. Die weiteren Zutaten hinzugen und kurz köcheln lassen.
 ** Gemüsepfanne
 *** Zutaten
-|   *Menge* | *Zutat*                       |
-|-----------+-------------------------------|
-|           | Olivenöl                      |
-|         1 | rote Zwiebel mit grünem Stiel |
-|         1 | Paprika                       |
-|         1 | kleine Karotte                |
-| 1 Hand voll | grüne Bohnen                      |
-|         1 | mittelgroße gelbe Zucchini    |
-|         3 | große Champignons             |
-|         1 | große Ochsenherz-Tomate       |
-|           | Schnittlauch                  |
-| 4 Blätter | Frühlingsziebeln              |
-|         1 | Stange+Blatt Krausepetersilie |
-|    1 Zehe | Knoblauch                     |
-|           | Gemüsebrühenpulver            |
-|           | Pfeffer                       |
-|       0.5 | Becher Sahne                  |
-|           | Paprikapulver                 |
+|     *Menge* | *Zutat*                       |
+|-------------+-------------------------------|
+|             | Olivenöl                      |
+|           1 | rote Zwiebel mit grünem Stiel |
+|           1 | Paprika                       |
+|           1 | kleine Karotte                |
+| 1 Hand voll | grüne Bohnen                  |
+|           1 | mittelgroße gelbe Zucchini    |
+|           3 | große Champignons             |
+|           1 | große Ochsenherz-Tomate       |
+|             | Schnittlauch                  |
+|   4 Blätter | Frühlingsziebeln              |
+|           1 | Stange+Blatt Krausepetersilie |
+|      1 Zehe | Knoblauch                     |
+|             | Gemüsebrühenpulver            |
+|             | Pfeffer                       |
+|         0.5 | Becher Sahne                  |
+|             | Paprikapulver                 |
 *** Zubereitung
 1. Das Gemüse würfeln.
 2. Die Zwiebel (ohne Stiel) anbraten.
@@ -352,12 +352,12 @@ Github: https://github.com/m1cm1c/recipes
 6. Alle weiteren Zutaten (auch die Bohnen) in die Pfanne geben und kurz köcheln lassen.
 ** Grießbrei
 *** Zutaten
-| *Menge*     | *Zutat*       |
-|-------------+---------------|
-| 1 Liter     | Milch         |
-| 2 Esslöffel | Zucker        |
-| 1 Päckchen  | Vanillezucker |
-| 1 Prise     | Salz          |
+| *Menge*     | *Zutat*          |
+|-------------+------------------|
+| 1 Liter     | Milch            |
+| 2 Esslöffel | Zucker           |
+| 1 Päckchen  | Vanillezucker    |
+| 1 Prise     | Salz             |
 | 100 g       | Weichweizengrieß |
 *** Zubereitung
 1. Die Milch, den Zucker, den Vanillezucker, und das Salz in einen Topf geben und zum Kochen bringen.
@@ -425,7 +425,7 @@ Github: https://github.com/m1cm1c/recipes
 | *Menge*     | *Zutat*                           |
 |-------------+-----------------------------------|
 | 800 g       | Kartoffeln                        |
-| 1 Teelöffel | Salz |
+| 1 Teelöffel | Salz                              |
 | 440 g       | Brokkoli-Röschen oder Tk-Brokkoli |
 | 1 Esslöffel | Sonnenblumenöl                    |
 | 1 Esslöffel | Butter                            |
