@@ -56,15 +56,15 @@ Github: https://github.com/m1cm1c/recipes
 *** Zutaten
 | *Menge* | *Zutat*          |
 |---------+------------------|
-|         | Likör 43         |
-|         | Cranberry-Nektar |
-|         | Orangensaft      |
-|         | Ananassaft       |
-|         | Zitronensaft     |
-|         | Marillenlikör    |
-|         | Andalö           |
-|         | Vodka            |
-|         | Eiswürfel        |
+| 20 g    | Likör 43         |
+| 80 g    | Cranberry-Nektar |
+| 80 g    | Orangensaft      |
+| 50 g    | Ananassaft       |
+| 22 g    | Zitronensaft     |
+| 40 g    | Marillenlikör    |
+| 15 g    | Andalö           |
+| 15 g    | Vodka            |
+| 3       | Eiswürfel        |
 ** Turquoise Energy
 *** Zutaten
 | *Menge*   | *Zutat*                 |
