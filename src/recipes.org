@@ -306,6 +306,7 @@ Github: https://github.com/m1cm1c/recipes
 |                  2 Zehen | Knoblauch                    |
 |                        3 | Karotten                     |
 |                        1 | große Zucchini               |
+|                      0.5 | Paprika                      |
 | 1 sehr große Gefrierdose | gehackte Tomaten             |
 |                        1 | Chillischote (optional)      |
 |                          | getrocknete Sellergieblätter |
