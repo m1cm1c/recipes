@@ -64,6 +64,7 @@ Github: https://github.com/m1cm1c/recipes
 | 40 g    | Marillenlikör    |
 | 15 g    | Andalö           |
 | 15 g    | Vodka            |
+| 20 g    | Cointreau        |
 | 3       | Eiswürfel        |
 ** Turquoise Energy
 *** Zutaten
