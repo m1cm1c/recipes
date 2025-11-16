@@ -706,18 +706,18 @@ Github: https://github.com/m1cm1c/recipes
 3. Die Schüssel abdecken und den Teig 40 Minuten lang gehen lassen.
 ** Quesadillas
 *** Zutaten
-| *Menge* | *Zutat*                  |
-|---------+--------------------------|
-|         | Paprika                  |
-|         | Mais                     |
-|         | Chilli                   |
-|         | Zwiebel                  |
-|         | Kidneybohnen             |
-|         | Gemüsebrühe              |
-|         | Pfeffer                  |
-|         | Käse                     |
-|         | Tomaten oder Tomatenmark |
-|         | Wraps                    |
+| *Menge*       | *Zutat*                  |
+|---------------+--------------------------|
+| 0.5           | Paprika                  |
+| 0.5 Dosen     | Mais                     |
+| 2 Schoten     | Chilli                   |
+| 1             | kleine Zwiebel           |
+| 1 Dose        | Kidneybohnen             |
+| 1.5 Teelöffel | Gemüsebrühe              |
+| 1 Teelöffel   | Pfeffer                  |
+|               | Käse                     |
+|               | Tomaten oder Tomatenmark |
+|               | Wraps                    |
 *** Zubereitung
 ** Schaschlik-Pfanne
 *** Zutaten
