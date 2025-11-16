@@ -715,10 +715,23 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Dose        | Kidneybohnen             |
 | 1.5 Teelöffel | Gemüsebrühe              |
 | 1 Teelöffel   | Pfeffer                  |
-|               | Käse                     |
 |               | Tomaten oder Tomatenmark |
+|               | Käse                     |
 |               | Wraps                    |
 *** Zubereitung
+1. Die Zutaten bis auf Tomatennmark, Käse, und Wraps in einer Schüssel (nicht der kleinsten) vermischen.
+   - Falls Tomaten statt Tomatenmark verwendet werden, diese auch zum Vermischen in die Schüssel geben.
+2. Pro Wrap:
+   1. Den Wrap von beiden Seiten in der größten Pfanne anbraten bis er etwas dunkel geworden ist.
+   2. Den Herd auf L stellen.
+   3. Den Wrap ein letztes Mal wenden.
+   4. Den Käse auf eine Hälfte des Wraps legen.
+   5. Ein paar Löffel der Mischung aus der Schüssel auf den Käse geben.
+   6. Falls Tomatenmark verwendet wird, dieses auf die Mischung geben.
+   7. Die andere Hälfte des Wraps darüber falten.
+   8. Den Wrap wenden und kurz anbraten.
+   9. Den Wrap auf einen Teller geben.
+3. Zum Schluss um die Wraps warm zu machen immer 2 auf einmal in die Pfanne geben.
 ** Schaschlik-Pfanne
 *** Zutaten
 | *Menge*           | *Zutat*               |
