@@ -422,6 +422,28 @@ Github: https://github.com/m1cm1c/recipes
 10. Salz, Pfeffer, Zucker, Paprikapulver, und Oregano hinzugeben.
 11. Alles 10 Minuten lang köcheln lassen. Dabei ab und zu langsam umrühren.
 12. Die Eier in Tomatensoße zusammen mit Reis servieren.
+** Kaiserschmarn
+*** Zutaten
+| *Menge*       | *Zutat*                    |
+|---------------+----------------------------|
+| 4             | Eier                       |
+| 125 g         | Mehl                       |
+| 125 g         | Milch                      |
+| 1 Prise       | Salz                       |
+| 1 Teelöffel   | Backpulver                 |
+| 1 Päckchen    | Vanillezucker              |
+| 25 g          | Zucker                     |
+| 80 g          | Rosinen                    |
+| 1 Esslöffel   | Sonnenblumenöl             |
+| 1.5 Esslöffel | Butter                     |
+|               | Apfelmuß oder Quittengelee |
+*** Zubereitung
+1. Alle Zutaten bis einschließlich Rosinen in einer Schüssel (nicht in der kleinsten) mischen.
+2. Das Sonnenblumenöl und 1 Esslöffel Butter in die größte Pfanne geben und die Butter schmelzen lassen.
+3. Den Teig in die große Pfanne geben und bei Stufe 6 (sonst verbrennt er) einen Pfannkuchen braten (dauert 15 Minuten). Nur 1 Pfannkuchen braten, auch wenn er sehr dick wird.
+4. Den Pfannkuchen wenden und von der anderen Seite braten (dauert 5 Minuten).
+5. Den Pfannkuchen zerhacken, 0.5 Esslöffel Butter hinzugeben, und unter Stüren weiter braten. Dafür kann die Stufe erhöht werden.
+6. Mit Apfelmuß oder Quittengelee servieren.
 ** Kartoffel-Brokkoli-Auflauf
 *** Zutaten
 | *Menge*     | *Zutat*                           |
@@ -502,28 +524,6 @@ Github: https://github.com/m1cm1c/recipes
 8. Die Mischung in die Auflaufform geben und glatt streichen.
 9. Den zur Seite gelegten Käse drüber streuen.
 10. Bei 200 °C (Ober- und Unterhitze) 20 Minuten lang backen.
-** Kaiserschmarn
-*** Zutaten
-| *Menge*       | *Zutat*                    |
-|---------------+----------------------------|
-| 4             | Eier                       |
-| 125 g         | Mehl                       |
-| 125 g         | Milch                      |
-| 1 Prise       | Salz                       |
-| 1 Teelöffel   | Backpulver                 |
-| 1 Päckchen    | Vanillezucker              |
-| 25 g          | Zucker                     |
-| 80 g          | Rosinen                    |
-| 1 Esslöffel   | Sonnenblumenöl             |
-| 1.5 Esslöffel | Butter                     |
-|               | Apfelmuß oder Quittengelee |
-*** Zubereitung
-1. Alle Zutaten bis einschließlich Rosinen in einer Schüssel (nicht in der kleinsten) mischen.
-2. Das Sonnenblumenöl und 1 Esslöffel Butter in die größte Pfanne geben und die Butter schmelzen lassen.
-3. Den Teig in die große Pfanne geben und bei Stufe 6 (sonst verbrennt er) einen Pfannkuchen braten (dauert 15 Minuten). Nur 1 Pfannkuchen braten, auch wenn er sehr dick wird.
-4. Den Pfannkuchen wenden und von der anderen Seite braten (dauert 5 Minuten).
-5. Den Pfannkuchen zerhacken, 0.5 Esslöffel Butter hinzugeben, und unter Stüren weiter braten. Dafür kann die Stufe erhöht werden.
-6. Mit Apfelmuß oder Quittengelee servieren.
 ** Lauchgemüse mit Fadennudeln
 *** Zutaten
 | *Menge*     | *Zutat*         |
