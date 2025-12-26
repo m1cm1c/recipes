@@ -2,7 +2,7 @@
 #+TITLE: Rezepte
 #+OPTIONS: toc:2
 #+LANGUAGE: de
-Github: https://github.com/m1cm1c/recipes
+GitHub: https://github.com/m1cm1c/recipes
 * Cocktails
 ** 43 mit Milch
 *** Zutaten
@@ -33,7 +33,7 @@ Github: https://github.com/m1cm1c/recipes
 *** Zubereitung
 1. Den Rum, den Limettensaft, den Zitronensaft, den normalen Zucker, und das Wasser in ein Glas (ca. 400 ml) geben.
 2. Rühren bis der Zucker größtenteils aufgelöst ist.
-3. Den brauenne Zucker hinzugeben.
+3. Den braunen Zucker hinzugeben.
 4. Mit Strohhalm servieren.
 ** Sekt mit Holunderblütenlikör
 *** Zutaten
@@ -121,7 +121,7 @@ Github: https://github.com/m1cm1c/recipes
 1. Die Zwiebel würfeln.
 2. Den Knoblauch und den Ingwer reiben (getrennt).
 3. Die Zwiebeln und den Knoblauch kurz anbraten.
-4. Den Ingwer kurz mitanbraten.
+4. Den Ingwer kurz mit anbraten.
 5. Mit den gehackten Tomaten ablöschen.
 6. Die anderen Zutaten hinzugeben und 10 Minuten köcheln lassen.
 ** Bechamel-Soße
@@ -321,10 +321,10 @@ Github: https://github.com/m1cm1c/recipes
 *** Zubereitung
 1. Das Gemüse würfeln.
 2. Die Zwiebeln und den Knoblauch anbraten.
-3. Die Karotten mitanbraten.
-4. Die Zucchini mitanbraten.
+3. Die Karotten mit anbraten.
+4. Die Zucchini mit anbraten.
 5. Mit den gehackten Tomaten ablöschen.
-6. Die weiteren Zutaten hinzugen und kurz köcheln lassen.
+6. Die weiteren Zutaten hinzugeben und kurz köcheln lassen.
 ** Gemüsepfanne
 *** Zutaten
 |     *Menge* | *Zutat*                       |
@@ -338,7 +338,7 @@ Github: https://github.com/m1cm1c/recipes
 |           3 | große Champignons             |
 |           1 | große Ochsenherz-Tomate       |
 |             | Schnittlauch                  |
-|   4 Blätter | Frühlingsziebeln              |
+|   4 Blätter | Frühlingszwiebeln              |
 |           1 | Stange+Blatt Krausepetersilie |
 |      1 Zehe | Knoblauch                     |
 |             | Gemüsebrühenpulver            |
@@ -390,7 +390,7 @@ Github: https://github.com/m1cm1c/recipes
 1. Die Milch und den Zucker in einen Topf geben und erhitzen.
 2. Die Bananen in dünne Scheiben schneiden.
 3. Sobald die Milch kocht, die Haferflocken hinzugeben und alles verrühren.
-4. Die schnittenen Bananen hinzugeben und alles verrühren.
+4. Die geschnittenen Bananen hinzugeben und alles verrühren.
 5. Köcheln lassen, bis sich die Bananenscheiben größtenteils aufgelöst haben (ca. 10 Minuten).
 ** Indonesische Eier in Tomatensoße (Telur Balado)
 *** Zutaten
@@ -468,9 +468,9 @@ Github: https://github.com/m1cm1c/recipes
 1. Die Kartoffeln waschen.
 2. Die Kartoffeln in 2 cm große Würfel schneiden.
 3. Die Kartoffel-Würfel im größten Topf in mit 1 Teelöffel Salz gesalzenem Wasser kochen (10 Minuten Kochzeit ab Siede-Beginn bis der Brokkoli hinzukommt).
-4. Die Ziebel klein würfeln und den Knoblauch zerkleinern.
+4. Die Zwiebel klein würfeln und den Knoblauch zerkleinern.
 5. Den Brokkoli mit in den Topf geben und für weitere 5 Minuten köcheln lassen.
-6. Das Sonnenblumenöl und die Butter in einen kleinen Topf geben. Die Ziebel und den Knoblauch darin dünsten.
+6. Das Sonnenblumenöl und die Butter in einen kleinen Topf geben. Die Zwiebel und den Knoblauch darin dünsten.
 7. Den Inhalt des kleinen Topfes mit der Milch und der Sahne ablöschen.
 8. Alle weiteren Zutaten bis auf den Gouda in den kleinen Topf geben und kurz aufkochen lassen.
 9. Backofen vorheizen (180 °C; Umluft).
@@ -538,7 +538,7 @@ Github: https://github.com/m1cm1c/recipes
 |             | Pfeffer         |
 | 200 g       | Fadennudeln     |
 *** Zubereitung
-1. Vorbereitung: Den Lauch in Rinnge schneiden.
+1. Vorbereitung: Den Lauch in Ringe schneiden.
 2. Die Zwiebeln in Streifen schneiden und kurz anbraten.
 3. Den Lauch unter Zugabe der Butter und etwas Wasser 10 Minuten lang dünsten.
 4. Die restlichen Zutaten hinzugeben und köcheln lassen bis die Fadennudeln durch sind.
@@ -553,7 +553,7 @@ Github: https://github.com/m1cm1c/recipes
 | 1           | Chillischote              |
 | 1 Dose      | Mais                      |
 | 1 Esslöffel | Chillipulver              |
-| 1 Dose      | Kindney-Bohnen            |
+| 1 Dose      | Kidney-Bohnen             |
 | 1 Dose      | schwarze Bohnen           |
 | 1 Dose      | gehackte Tomaten          |
 | 2 Scheiben  | Käse                      |
@@ -607,7 +607,7 @@ Github: https://github.com/m1cm1c/recipes
 | 250 g       | Wasser                                     |
 | 1 Packung   | Bresso Frischkäse Kirschtomaten und Chilli |
 *** Zubereitung
-1. Die Spaghetti in der Mitter zerbrechen und ungekocht in die große Hälfte der Auflaufform legen.
+1. Die Spaghetti in der Mitte zerbrechen und ungekocht in die große Hälfte der Auflaufform legen.
 2. Das Gemüse kleinschneiden (Zucchini in Viertels-Scheiben)
 3. Die Zutaten in der beschriebenen Reihenfolge in die Auflaufform geben.
 4. 30 Minuten lang bei 200 Grad Ober-/Unterhitze backen.
@@ -657,7 +657,7 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Packung   | vegetarischer Wurst-Aufschnitt      |
 | 3 Teelöffel | Gemüsebrühenpulver                  |
 | 1 Teelöffel | Pfeffer                             |
-| 2           | Chillis                             |
+| 2           | Chillischoten                       |
 | 1 Teelöffel | Bird's Eye                          |
 |             | Schnittlauch                        |
 |             | Petersilie                          |
@@ -758,7 +758,7 @@ Github: https://github.com/m1cm1c/recipes
 |                   | Petersilie            |
 | 2 Tassen          | Reis                  |
 *** Zubereitung
-1. Die Zwiebeln, den Paprika, und den Knoblauch würfeln und zur Seite legen. Die Chillis schneiden.
+1. Die Zwiebeln, den Paprika, und den Knoblauch würfeln und zur Seite legen. Die Chillischoten schneiden.
 2. Den Tofu würfeln und das Dönerfleisch etwas kleiner schneiden.
 3. Den Reis waschen und den Reiskocher einschalten.
 4. Die Tomaten in große Stücke schneiden.
@@ -792,7 +792,7 @@ Github: https://github.com/m1cm1c/recipes
 | 190 g (1.5 Packungen) | Mozarella (abgetropft) |
 |                       | Basilikum              |
 *** Zubereitung
-1. Die Schüpfnudeln im Öl einige Minuten lang anbraten.
+1. Die Schupfnudeln im Öl einige Minuten lang anbraten.
 2. Die Tomaten hinzugeben und mit anbraten.
 3. Den Mozarella in Würfel schneiden (zur Vorbereitung).
 4. Den Knoblauch und das Tomatenmark hinzugeben und mit anbraten.
@@ -871,11 +871,11 @@ Github: https://github.com/m1cm1c/recipes
 6. Ein Nori-Blatt auf die Bambus-Matte legen und Reis flach darauf verteilen. Dabei unten 3 cm und oben 8 cm frei lassen.
 7. Unten Frischkäse auf den Reis schmieren, dann Meerrettich-Paste. Anschließend den Knoblauch und ggf. den Ingwer (für mehr Abwechslung nicht bei allen Sushi-Rollen verwenden, denn der Ingwer macht geschmacklich den größten Unterschied) verteilen, dann Gemüse der vollen Breite nach darauf legen.
 8. Die Bambus-Matte nutzen um den belegten Teil aufzurollen und fest anzudrücken.
-9. Den vorderen (zuvor unteren) Teil der Bambus-Matte vom restlichen Reis wegheben und unter weiterer Ausübung von (nun geringerem) Druck den weitern mit Reis belegten Teil aufrollen.
+9. Den vorderen (zuvor unteren) Teil der Bambus-Matte vom restlichen Reis wegheben und unter weiterer Ausübung von (nun geringerem) Druck den weiteren mit Reis belegten Teil aufrollen.
 10. Den oberen freien Teil des Nori-Blattes mit Wasser beschmieren.
 11. Die Sushi-Rolle vollständig zusammenrollen.
-12. Die Shushi-Rolle durch weiteres Rollen festigen.
-13. Die Bambus-Matte an beiden Enden hochgeben und die Sushi-Rolle nochmals leicht rollen lassen, um sie rund zu bekommen.
+12. Die Sushi-Rolle durch weiteres Rollen festigen.
+13. Die Bambus-Matte an beiden Enden hochheben und die Sushi-Rolle nochmals leicht rollen lassen, um sie rund zu bekommen.
 14. Die Sushi-Rolle einige Minuten lang ruhen lassen, so dass sie sich festigen kann.
 15. Die Sushi-Rolle in ca. 1.5 cm breite Stücke schneiden.
 ** Thai Curry
@@ -908,7 +908,7 @@ Github: https://github.com/m1cm1c/recipes
 *** Zubereitung
 1. Die Zwiebel würfeln und in Olivenöl im Wok anbraten.
 2. Den Knoblauch und den Ingwer hinzufügen und mit anbraten.
-3. Die Erdnüssel und das rote Curry-Pulver hinzufügen und mit anbraten.
+3. Die Erdnüsse und das rote Curry-Pulver hinzufügen und mit anbraten.
 4. Mit Kokosmilch ablöschen, dann die Milch hinzugeben.
 5. Limettensaft, Sojasoße und Erdnussbutter untermischen.
 6. Die restlichen Zutaten bis auf den Reis hinzugeben.
@@ -926,14 +926,14 @@ Github: https://github.com/m1cm1c/recipes
 | 1 Teelöffel | Backpulver    |
 | 3           | Eier          |
 *** Zubereitung
-Wenn keine Mikrowell verfügbar ist:
+Wenn keine Mikrowelle verfügbar ist:
 1. Die Milch und die Butter erhitzen, so dass die Butter schmilzt.
-2. Die Mischung aus Milch unt Butter in eine Schüssel geben.
+2. Die Mischung aus Milch und Butter in eine Schüssel geben.
 3. Den Zucker, den Vanillezucker, und das Salz hinzugeben und alles vermischen.
 
 Wenn eine Mikrowelle verfügbar ist:
 1. Die Milch, die Butter, den Zucker, den Vanillezucker, und das Salz in eine Schüssel geben.
-2. Den Inhalt der Schüssel 1:30 Minuten lang bei 800 W in der Mikrowell erwärmen.
+2. Den Inhalt der Schüssel 1:30 Minuten lang bei 800 W in der Mikrowelle erwärmen.
 3. Die Zutaten vermischen, so dass die Butter schmilzt.
 
 In jedem Fall weiter:
@@ -952,7 +952,7 @@ In jedem Fall weiter:
 | 40 g      | Zitronensäure  |
 *** Zubereitung
 1. Die Holunderblütendolden ausschütteln, die Stiele abschneiden, und in einen großen Topf geben (größter Topf oder Auflaufform).
-2. Das Wasser hinzugeben und umrühen.
+2. Das Wasser hinzugeben und umrühren.
 3. Nach Insekten absuchen.
 4. Den Wodka hinzugeben.
 5. Den Zucker hinzugeben.
@@ -980,7 +980,7 @@ In jedem Fall weiter:
 | 40 g      | Zitronensäure  |
 *** Zubereitung
 1. Die Holunderblütendolden ausschütteln, die Stiele abschneiden, und in einen großen Topf geben (größter Topf).
-2. Das Wasser hinzugeben und umrühen.
+2. Das Wasser hinzugeben und umrühren.
 3. Nach Insekten absuchen.
 4. Den Zucker hinzugeben.
 5. Die Zitronensäure hinzugeben (40 g Zitronensäure entspricht 880 g Zitronensaft).
