@@ -298,6 +298,44 @@ GitHub: https://github.com/m1cm1c/recipes
 2. Die restlichen Zutaten zerkleinern, auf einen flachen Teller geben, und vermischen.
 3. Die Auberginenscheiben in der Flüssigkeit marinieren.
 4. Die marinierten Auberginenscheiben bei sehr hoher Temperatur in einer Pfanne anbraten.
+** Gemüsebällchen mit Tomatensoße
+*** Zutaten
+|      *Menge* | *Zutat*                      |
+|--------------+------------------------------|
+|              | Reis                         |
+| 1 Mixer voll | gehackte Tomaten             |
+|              | Zucker                       |
+|              | Zitronensaft                 |
+|              | Olivenöl                     |
+|            2 | mittelgroße Zwiebeln         |
+|      3 Zehen | Knoblauch                    |
+|              | Kecap Manis                  |
+|              | Sojasoße                     |
+|            5 | Chillischoten                |
+|              | Thai-Curry-Pulver            |
+|              | Limettensaft                 |
+|              | Reisessig                    |
+|              | Maggi                        |
+|            1 | Frühlingszwiebel             |
+|              | Kirschtomaten                |
+|              | Sonnenblumenöl               |
+|    1 Packung | vegane Gemüsebällchen (Aldi) |
+|          0.5 | Gurke                        |
+|          0.5 | Paprika                      |
+*** Zubereitung
+1. Den Reis kochen.
+2. Die Tomaten, den Zucker und den Zitronensaft zusammen pürieren.
+3. Die Zwiebeln in Streifen schneiden und den Knoblauch zerkleinern.
+4. Die Zwiebeln und den Knoblauch mit Olivenöl anbraten.
+5. Das Kecap Manis hinzugeben und leicht karamellisieren lassen.
+6. Die Sojasoße hinzugeben und auch kurz mitkochen lassen.
+7. Die Tomatensoße hinzugeben.
+8. Die Chillis, das Thai-Curry-Pulver, den Limettensaft und den Reisessig hinzugeben.
+9. Die Soße kochen lassen.
+10. Maggi und die Frühlingszwiebel (in Scheiben geschnitten) hinzugeben.
+11. Die veganen Gemüsebällchen in einer Pfanne in Sonnenblumenöl braten.
+12. Die Kirschtomaten hinzugeben und kurz mitkochen lassen.
+13. Reis, Soße und Bällchen auf denselben Teller. Gurkenscheiben und Paprikastreifen separat angerichtet servieren.
 ** Gemüsebolognese
 *** Zutaten
 |                  *Menge* | *Zutat*                      |
